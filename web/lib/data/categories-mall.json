@@ -1,0 +1,9200 @@
+[
+  {
+    "stt": 1,
+    "cap1": "Thiết Bị Âm Thanh",
+    "cap2": "Amply và đầu chỉnh âm",
+    "cap3": null,
+    "phiCoDinh": 0.105
+  },
+  {
+    "stt": 2,
+    "cap1": "Thiết Bị Âm Thanh",
+    "cap2": "Cáp âm thanh/ video & Đầu chuyển",
+    "cap3": null,
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 3,
+    "cap1": "Thiết Bị Âm Thanh",
+    "cap2": "Tai nghe nhét tai & chụp tai",
+    "cap3": null,
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 4,
+    "cap1": "Thiết Bị Âm Thanh",
+    "cap2": "Dàn âm thanh",
+    "cap3": "Thu sóng AV",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 5,
+    "cap1": "Thiết Bị Âm Thanh",
+    "cap2": "Dàn âm thanh",
+    "cap3": "Hệ thống âm thanh giải trí tại gia",
+    "phiCoDinh": 0.105
+  },
+  {
+    "stt": 6,
+    "cap1": "Thiết Bị Âm Thanh",
+    "cap2": "Dàn âm thanh",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 7,
+    "cap1": "Thiết Bị Âm Thanh",
+    "cap2": "Dàn âm thanh",
+    "cap3": "Loa",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 8,
+    "cap1": "Thiết Bị Âm Thanh",
+    "cap2": "Máy nghe nhạc",
+    "cap3": "CD, DVD & Bluray",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 9,
+    "cap1": "Thiết Bị Âm Thanh",
+    "cap2": "Máy nghe nhạc",
+    "cap3": "MP3 & MP4",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 10,
+    "cap1": "Thiết Bị Âm Thanh",
+    "cap2": "Máy nghe nhạc",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 11,
+    "cap1": "Thiết Bị Âm Thanh",
+    "cap2": "Máy nghe nhạc",
+    "cap3": "Radio & Cát-sét",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 12,
+    "cap1": "Thiết Bị Âm Thanh",
+    "cap2": "Máy nghe nhạc",
+    "cap3": "Máy ghi âm",
+    "phiCoDinh": 0.105
+  },
+  {
+    "stt": 13,
+    "cap1": "Thiết Bị Âm Thanh",
+    "cap2": "Micro thu âm",
+    "cap3": null,
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 14,
+    "cap1": "Thiết Bị Âm Thanh",
+    "cap2": "Khác",
+    "cap3": null,
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 15,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Phụ kiện máy ảnh",
+    "cap3": "Đế pin",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 16,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Phụ kiện máy ảnh",
+    "cap3": "Bộ sạc pin",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 17,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Phụ kiện máy ảnh",
+    "cap3": "Túi đựng máy ảnh",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 18,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Phụ kiện máy ảnh",
+    "cap3": "Phụ kiện đèn Flash",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 19,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Phụ kiện máy ảnh",
+    "cap3": "Đèn Flash",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 20,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Phụ kiện máy ảnh",
+    "cap3": "Tay cầm chống rung",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 21,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Phụ kiện máy ảnh",
+    "cap3": "Thiết bị ánh sáng và phòng chụp",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 22,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Phụ kiện máy ảnh",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 23,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Phụ kiện máy ảnh",
+    "cap3": "Giấy & phim in ảnh",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 24,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Phụ kiện máy ảnh",
+    "cap3": "Máy in ảnh",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 25,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Phụ kiện máy ảnh",
+    "cap3": "Chân máy ảnh",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 26,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Phụ kiện chăm sóc máy ảnh",
+    "cap3": "Bóng thổi bụi",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 27,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Phụ kiện chăm sóc máy ảnh",
+    "cap3": "Bộ vệ sinh máy ảnh",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 28,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Phụ kiện chăm sóc máy ảnh",
+    "cap3": "Tủ & hộp chống ẩm",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 29,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Phụ kiện chăm sóc máy ảnh",
+    "cap3": "Bút lau & bàn chải làm sạch ống kính",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 30,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Phụ kiện chăm sóc máy ảnh",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 31,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Phụ kiện chăm sóc máy ảnh",
+    "cap3": "Gói hút ẩm",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 32,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Máy ảnh",
+    "cap3": "Máy quay hành động",
+    "phiCoDinh": 0.078
+  },
+  {
+    "stt": 33,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Máy ảnh",
+    "cap3": "Máy ảnh film",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 34,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Máy ảnh",
+    "cap3": "Máy ảnh cơ/DSLRs",
+    "phiCoDinh": 0.064
+  },
+  {
+    "stt": 35,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Máy ảnh",
+    "cap3": "Máy ảnh chụp lấy liền",
+    "phiCoDinh": 0.078
+  },
+  {
+    "stt": 36,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Máy ảnh",
+    "cap3": "Máy ảnh không gương lật",
+    "phiCoDinh": 0.064
+  },
+  {
+    "stt": 37,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Máy ảnh",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 38,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Máy ảnh",
+    "cap3": "Máy ảnh kỹ thuật số",
+    "phiCoDinh": 0.078
+  },
+  {
+    "stt": 39,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Máy ảnh",
+    "cap3": "Máy quay phim",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 40,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Phụ kiện Flycam",
+    "cap3": null,
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 41,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Flycam",
+    "cap3": null,
+    "phiCoDinh": 0.105
+  },
+  {
+    "stt": 42,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Phụ kiện ống kính",
+    "cap3": "Kính lọc",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 43,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Phụ kiện ống kính",
+    "cap3": "Nắp ống kính",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 44,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Phụ kiện ống kính",
+    "cap3": "Loa che sáng ống kính",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 45,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Phụ kiện ống kính",
+    "cap3": "Ngàm ống kính & Ngàm chuyển đổi ống",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 46,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Phụ kiện ống kính",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 47,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Ống kính",
+    "cap3": null,
+    "phiCoDinh": 0.078
+  },
+  {
+    "stt": 48,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Khác",
+    "cap3": null,
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 49,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Camera giám sát",
+    "cap3": "Camera giám sát kết nối internet",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 50,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Camera giám sát",
+    "cap3": "Camera giả chống trộm",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 51,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Camera giám sát",
+    "cap3": "Đầu ghi hình",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 52,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Camera giám sát",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 53,
+    "cap1": "Cameras & Flycam",
+    "cap2": "Camera giám sát",
+    "cap3": "Camera ngụy trang",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 54,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Thiết Bị Lưu Trữ",
+    "cap3": "Đĩa CD",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 55,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Thiết Bị Lưu Trữ",
+    "cap3": "USB & OTG",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 56,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Thiết Bị Lưu Trữ",
+    "cap3": "Thiết Bị Đựng Ổ Cứng",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 57,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Thiết Bị Lưu Trữ",
+    "cap3": "Ổ Cứng Di Động",
+    "phiCoDinh": 0.105
+  },
+  {
+    "stt": 58,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Thiết Bị Lưu Trữ",
+    "cap3": "Ổ Cứng Mạng (NAS)",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 59,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Thiết Bị Lưu Trữ",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 60,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Thiết Bị Lưu Trữ",
+    "cap3": "Ổ Cứng SSD",
+    "phiCoDinh": 0.105
+  },
+  {
+    "stt": 61,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Linh Kiện Máy Tính",
+    "cap3": "Quạt và Tản Nhiệt",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 62,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Linh Kiện Máy Tính",
+    "cap3": "VGA - Card Màn Hình",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 63,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Linh Kiện Máy Tính",
+    "cap3": "Mainboard - Bo Mạch Chủ",
+    "phiCoDinh": 0.085
+  },
+  {
+    "stt": 64,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Linh Kiện Máy Tính",
+    "cap3": "Ổ Đĩa Quang",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 65,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Linh Kiện Máy Tính",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 66,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Linh Kiện Máy Tính",
+    "cap3": "Case Máy Tính",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 67,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Linh Kiện Máy Tính",
+    "cap3": "Nguồn Máy Tính",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 68,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Linh Kiện Máy Tính",
+    "cap3": "CPU - Bộ Vi Xử Lý",
+    "phiCoDinh": 0.078
+  },
+  {
+    "stt": 69,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Linh Kiện Máy Tính",
+    "cap3": "Ram Máy Tính",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 70,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Linh Kiện Máy Tính",
+    "cap3": "Bo Mạch Âm Thanh",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 71,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Linh Kiện Máy Tính",
+    "cap3": "Keo Tản Nhiệt",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 72,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Linh Kiện Máy Tính",
+    "cap3": "Bộ Lưu Điện",
+    "phiCoDinh": 0.105
+  },
+  {
+    "stt": 73,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Máy Tính Bàn",
+    "cap3": "Máy Tính All in one",
+    "phiCoDinh": 0.033
+  },
+  {
+    "stt": 74,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Máy Tính Bàn",
+    "cap3": "Bộ Máy Tính Bàn",
+    "phiCoDinh": 0.033
+  },
+  {
+    "stt": 75,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Máy Tính Bàn",
+    "cap3": "Máy Tính Mini",
+    "phiCoDinh": 0.033
+  },
+  {
+    "stt": 76,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Máy Tính Bàn",
+    "cap3": "Khác",
+    "phiCoDinh": 0.085
+  },
+  {
+    "stt": 77,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Máy Tính Bàn",
+    "cap3": "Máy Chủ",
+    "phiCoDinh": 0.033
+  },
+  {
+    "stt": 78,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Chuột & Bàn Phím",
+    "cap3": "Bảng Vẽ Điện Tử",
+    "phiCoDinh": 0.105
+  },
+  {
+    "stt": 79,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Chuột & Bàn Phím",
+    "cap3": "Bàn Phím Máy Tính",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 80,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Chuột & Bàn Phím",
+    "cap3": "Chuột Máy Tính",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 81,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Chuột & Bàn Phím",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 82,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Laptop",
+    "cap3": null,
+    "phiCoDinh": 0.033
+  },
+  {
+    "stt": 83,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Màn Hình",
+    "cap3": null,
+    "phiCoDinh": 0.078
+  },
+  {
+    "stt": 84,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Thiết Bị Mạng",
+    "cap3": "Bộ Chuyển Mạch KVM",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 85,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Thiết Bị Mạng",
+    "cap3": "Bộ Phát Wifi",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 86,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Thiết Bị Mạng",
+    "cap3": "Cáp Máy Tính",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 87,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Thiết Bị Mạng",
+    "cap3": "Bộ chia mạng",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 88,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Thiết Bị Mạng",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 89,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Thiết Bị Mạng",
+    "cap3": "Bộ Chuyển Đổi Mạng",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 90,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Thiết Bị Mạng",
+    "cap3": "Máy Chủ Máy In",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 91,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Thiết Bị Mạng",
+    "cap3": "Bộ Kích Wifi",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 92,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Thiết Bị Mạng",
+    "cap3": "Bộ Thu Wifi",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 93,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Thiết Bị Văn Phòng",
+    "cap3": "Máy Chấm Công",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 94,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Thiết Bị Văn Phòng",
+    "cap3": "Máy Đếm Tiền",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 95,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Thiết Bị Văn Phòng",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 96,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Thiết Bị Văn Phòng",
+    "cap3": "Máy Hủy Tài Liệu",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 97,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Thiết Bị Văn Phòng",
+    "cap3": "Máy Đánh Chữ",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 98,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Phụ Kiện Máy Tính Khác",
+    "cap3": null,
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 99,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Phụ Kiện Máy Tính",
+    "cap3": "Đế Tản Nhiệt",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 100,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Phụ Kiện Máy Tính",
+    "cap3": "Miếng Dán Bàn Phím",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 101,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Phụ Kiện Máy Tính",
+    "cap3": "Pin Laptop",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 102,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Phụ Kiện Máy Tính",
+    "cap3": "Bộ Sạc Laptop",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 103,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Phụ Kiện Máy Tính",
+    "cap3": "Miếng Dán & Ốp Laptop",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 104,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Phụ Kiện Máy Tính",
+    "cap3": "Bàn Laptop",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 105,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Phụ Kiện Máy Tính",
+    "cap3": "Bàn Di Chuột",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 106,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Phụ Kiện Máy Tính",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 107,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Phụ Kiện Máy Tính",
+    "cap3": "Bộ chia cổng USB & Đọc thẻ nhớ",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 108,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Phụ Kiện Máy Tính",
+    "cap3": "Thiết Bị Truyền Hình Hội Nghị",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 109,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Phụ Kiện Máy Tính",
+    "cap3": "Webcam",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 110,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Máy In & Máy Scan",
+    "cap3": "Máy In 3D",
+    "phiCoDinh": 0.105
+  },
+  {
+    "stt": 111,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Máy In & Máy Scan",
+    "cap3": "Mực In & Khay Mực",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 112,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Máy In & Máy Scan",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 113,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Máy In & Máy Scan",
+    "cap3": "Máy In, Máy Scan & Máy Photo",
+    "phiCoDinh": 0.085
+  },
+  {
+    "stt": 114,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Máy In & Máy Scan",
+    "cap3": "Máy In Mã Vạch",
+    "phiCoDinh": 0.105
+  },
+  {
+    "stt": 115,
+    "cap1": "Máy tính & Laptop",
+    "cap2": "Phần Mềm",
+    "cap3": null,
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 116,
+    "cap1": "Gaming & Console",
+    "cap2": "Phụ kiện console",
+    "cap3": null,
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 117,
+    "cap1": "Gaming & Console",
+    "cap2": "Máy chơi game",
+    "cap3": "Gameboy",
+    "phiCoDinh": 0.078
+  },
+  {
+    "stt": 118,
+    "cap1": "Gaming & Console",
+    "cap2": "Máy chơi game",
+    "cap3": "Nintendo DS",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 119,
+    "cap1": "Gaming & Console",
+    "cap2": "Máy chơi game",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 120,
+    "cap1": "Gaming & Console",
+    "cap2": "Máy chơi game",
+    "cap3": "Playstation",
+    "phiCoDinh": 0.085
+  },
+  {
+    "stt": 121,
+    "cap1": "Gaming & Console",
+    "cap2": "Máy chơi game",
+    "cap3": "PS Vita",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 122,
+    "cap1": "Gaming & Console",
+    "cap2": "Máy chơi game",
+    "cap3": "PSP",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 123,
+    "cap1": "Gaming & Console",
+    "cap2": "Máy chơi game",
+    "cap3": "Switch",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 124,
+    "cap1": "Gaming & Console",
+    "cap2": "Máy chơi game",
+    "cap3": "Wii",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 125,
+    "cap1": "Gaming & Console",
+    "cap2": "Máy chơi game",
+    "cap3": "Xbox",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 126,
+    "cap1": "Gaming & Console",
+    "cap2": "Khác",
+    "cap3": null,
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 127,
+    "cap1": "Gaming & Console",
+    "cap2": "Video Games",
+    "cap3": "Game Gameboy",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 128,
+    "cap1": "Gaming & Console",
+    "cap2": "Video Games",
+    "cap3": "Game Nintendo DS",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 129,
+    "cap1": "Gaming & Console",
+    "cap2": "Video Games",
+    "cap3": "Game Máy Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 130,
+    "cap1": "Gaming & Console",
+    "cap2": "Video Games",
+    "cap3": "Game PC",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 131,
+    "cap1": "Gaming & Console",
+    "cap2": "Video Games",
+    "cap3": "Game Playstation",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 132,
+    "cap1": "Gaming & Console",
+    "cap2": "Video Games",
+    "cap3": "Game PS Vita",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 133,
+    "cap1": "Gaming & Console",
+    "cap2": "Video Games",
+    "cap3": "Game PSP",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 134,
+    "cap1": "Gaming & Console",
+    "cap2": "Video Games",
+    "cap3": "Game Switch",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 135,
+    "cap1": "Gaming & Console",
+    "cap2": "Video Games",
+    "cap3": "Game Wii",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 136,
+    "cap1": "Gaming & Console",
+    "cap2": "Video Games",
+    "cap3": "Game Xbox",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 137,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Pin",
+    "cap3": null,
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 138,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Thuốc lá điện tử",
+    "cap3": null,
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 139,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Mạch điện & Phụ tùng",
+    "cap3": "Chuông cửa",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 140,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Mạch điện & Phụ tùng",
+    "cap3": "Ổ cắm điện & Dây nối",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 141,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Mạch điện & Phụ tùng",
+    "cap3": "Thiết bị an toàn điện tử",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 142,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Mạch điện & Phụ tùng",
+    "cap3": "Thiết bị tiết kiệm điện",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 143,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Mạch điện & Phụ tùng",
+    "cap3": "Thiết bị báo động nhà ở",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 144,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Mạch điện & Phụ tùng",
+    "cap3": "Thiết bị chống sấm sét",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 145,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Mạch điện & Phụ tùng",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 146,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Mạch điện & Phụ tùng",
+    "cap3": "Công tắc",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 147,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Đồ gia dụng nhà bếp",
+    "cap3": "Nồi chiên không dầu",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 148,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Đồ gia dụng nhà bếp",
+    "cap3": "Máy pha cà phê & Phụ kiện",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 149,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Đồ gia dụng nhà bếp",
+    "cap3": "Nồi chiên ngập dầu",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 150,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Đồ gia dụng nhà bếp",
+    "cap3": "Máy rửa bát đĩa",
+    "phiCoDinh": 0.064
+  },
+  {
+    "stt": 151,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Đồ gia dụng nhà bếp",
+    "cap3": "Máy chế biến thực phẩm & Xay thịt",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 152,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Đồ gia dụng nhà bếp",
+    "cap3": "Tủ đông",
+    "phiCoDinh": 0.055
+  },
+  {
+    "stt": 153,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Đồ gia dụng nhà bếp",
+    "cap3": "Máy hút khói",
+    "phiCoDinh": 0.078
+  },
+  {
+    "stt": 154,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Đồ gia dụng nhà bếp",
+    "cap3": "Máy ép, Xay sinh tố & Máy làm sữa đậu nành",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 155,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Đồ gia dụng nhà bếp",
+    "cap3": "Ấm đun siêu tốc",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 156,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Đồ gia dụng nhà bếp",
+    "cap3": "Lò vi sóng",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 157,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Đồ gia dụng nhà bếp",
+    "cap3": "Máy trộn thực phẩm",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 158,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Đồ gia dụng nhà bếp",
+    "cap3": "Nồi nấu đa năng",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 159,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Đồ gia dụng nhà bếp",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 160,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Đồ gia dụng nhà bếp",
+    "cap3": "Lò nướng",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 161,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Đồ gia dụng nhà bếp",
+    "cap3": "Nồi áp suất",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 162,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Đồ gia dụng nhà bếp",
+    "cap3": "Tủ lạnh",
+    "phiCoDinh": 0.055
+  },
+  {
+    "stt": 163,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Đồ gia dụng nhà bếp",
+    "cap3": "Nồi cơm điện",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 164,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Đồ gia dụng nhà bếp",
+    "cap3": "Nồi nấu chậm & Dụng cụ nấu chân không",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 165,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Đồ gia dụng nhà bếp",
+    "cap3": "Dụng cụ nấu đặc biệt",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 166,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Đồ gia dụng nhà bếp",
+    "cap3": "Lò sưởi, Bếp từ & Bộ điều chỉnh gas",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 167,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Đồ gia dụng nhà bếp",
+    "cap3": "Máy nướng bánh",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 168,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Đồ gia dụng nhà bếp",
+    "cap3": "Máy lọc nước",
+    "phiCoDinh": 0.085
+  },
+  {
+    "stt": 169,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Đồ gia dụng nhà bếp",
+    "cap3": "Tủ ủ rượu",
+    "phiCoDinh": 0.055
+  },
+  {
+    "stt": 170,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Thiết bị điện gia dụng lớn",
+    "cap3": "Thiết bị làm mát",
+    "phiCoDinh": 0.064
+  },
+  {
+    "stt": 171,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Thiết bị điện gia dụng lớn",
+    "cap3": "Thiết bị sấy khô nệm & Giày",
+    "phiCoDinh": 0.085
+  },
+  {
+    "stt": 172,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Thiết bị điện gia dụng lớn",
+    "cap3": "Máy sưởi",
+    "phiCoDinh": 0.064
+  },
+  {
+    "stt": 173,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Thiết bị điện gia dụng lớn",
+    "cap3": "Khác",
+    "phiCoDinh": 0.055
+  },
+  {
+    "stt": 174,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Thiết bị điện gia dụng lớn",
+    "cap3": "Máy giặt & Máy sấy",
+    "phiCoDinh": 0.055
+  },
+  {
+    "stt": 175,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Thiết bị điện gia dụng lớn",
+    "cap3": "Máy nước nóng",
+    "phiCoDinh": 0.064
+  },
+  {
+    "stt": 176,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Khác",
+    "cap3": null,
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 177,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Máy chiếu & Phụ kiện",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 178,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Máy chiếu & Phụ kiện",
+    "cap3": "Bút trình chiếu",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 179,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Máy chiếu & Phụ kiện",
+    "cap3": "Máy chiếu & Màn hình chiếu",
+    "phiCoDinh": 0.105
+  },
+  {
+    "stt": 180,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Thiết bị điều khiển từ xa",
+    "cap3": null,
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 181,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Thiết bị điện gia dụng nhỏ",
+    "cap3": "Thiết bị xử lý không khí",
+    "phiCoDinh": 0.055
+  },
+  {
+    "stt": 182,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Thiết bị điện gia dụng nhỏ",
+    "cap3": "Thiết bị vệ sinh chân & Thư giãn",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 183,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Thiết bị điện gia dụng nhỏ",
+    "cap3": "Bàn là khô & Hơi nước",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 184,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Thiết bị điện gia dụng nhỏ",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 185,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Thiết bị điện gia dụng nhỏ",
+    "cap3": "Máy may & Phụ kiện",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 186,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Thiết bị điện gia dụng nhỏ",
+    "cap3": "Điện thoại",
+    "phiCoDinh": 0.085
+  },
+  {
+    "stt": 187,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Thiết bị điện gia dụng nhỏ",
+    "cap3": "Máy hút bụi & Thiết bị làm sạch sàn",
+    "phiCoDinh": 0.085
+  },
+  {
+    "stt": 188,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Thiết bị điện gia dụng nhỏ",
+    "cap3": "Máy tăm nước",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 189,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Tivi & Phụ kiện",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 190,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Tivi & Phụ kiện",
+    "cap3": "Ăng ten Tivi",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 191,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Tivi & Phụ kiện",
+    "cap3": "Tivi box & Đầu thu kỹ thuật số",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 192,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Tivi & Phụ kiện",
+    "cap3": "Giá treo tivi",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 193,
+    "cap1": "Thiết Bị Điện Gia Dụng",
+    "cap2": "Tivi & Phụ kiện",
+    "cap3": "Tivi",
+    "phiCoDinh": 0.033
+  },
+  {
+    "stt": 194,
+    "cap1": "Điện Thoại & Phụ Kiện",
+    "cap2": "Phụ kiện",
+    "cap3": "Cáp, sạc & bộ chuyển đổi",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 195,
+    "cap1": "Điện Thoại & Phụ Kiện",
+    "cap2": "Phụ kiện",
+    "cap3": "Vỏ bao, Ốp lưng & Miếng dán",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 196,
+    "cap1": "Điện Thoại & Phụ Kiện",
+    "cap2": "Phụ kiện",
+    "cap3": "Thiết bị trình chiếu",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 197,
+    "cap1": "Điện Thoại & Phụ Kiện",
+    "cap2": "Phụ kiện",
+    "cap3": "Thẻ nhớ",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 198,
+    "cap1": "Điện Thoại & Phụ Kiện",
+    "cap2": "Phụ kiện",
+    "cap3": "Đèn flash điện thoại & Đèn selfie",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 199,
+    "cap1": "Điện Thoại & Phụ Kiện",
+    "cap2": "Phụ kiện",
+    "cap3": "Ống kính điện thoại",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 200,
+    "cap1": "Điện Thoại & Phụ Kiện",
+    "cap2": "Phụ kiện",
+    "cap3": "Túi đựng điện thoại",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 201,
+    "cap1": "Điện Thoại & Phụ Kiện",
+    "cap2": "Phụ kiện",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 202,
+    "cap1": "Điện Thoại & Phụ Kiện",
+    "cap2": "Phụ kiện",
+    "cap3": "Kẹp điện thoại",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 203,
+    "cap1": "Điện Thoại & Phụ Kiện",
+    "cap2": "Phụ kiện",
+    "cap3": "Dây đeo điện thoại & Móc khóa",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 204,
+    "cap1": "Điện Thoại & Phụ Kiện",
+    "cap2": "Phụ kiện",
+    "cap3": "Bộ phát Wifi bỏ túi",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 205,
+    "cap1": "Điện Thoại & Phụ Kiện",
+    "cap2": "Phụ kiện",
+    "cap3": "Sạc dự phòng & Pin",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 206,
+    "cap1": "Điện Thoại & Phụ Kiện",
+    "cap2": "Phụ kiện",
+    "cap3": "Miếng dán màn hình",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 207,
+    "cap1": "Điện Thoại & Phụ Kiện",
+    "cap2": "Phụ kiện",
+    "cap3": "Phụ kiện selfie",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 208,
+    "cap1": "Điện Thoại & Phụ Kiện",
+    "cap2": "Phụ kiện",
+    "cap3": "Bút cảm ứng",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 209,
+    "cap1": "Điện Thoại & Phụ Kiện",
+    "cap2": "Phụ kiện",
+    "cap3": "Quạt USB & Quạt điện thoại",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 210,
+    "cap1": "Điện Thoại & Phụ Kiện",
+    "cap2": "Phụ kiện",
+    "cap3": "Đèn USB & Đèn điện thoại",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 211,
+    "cap1": "Điện Thoại & Phụ Kiện",
+    "cap2": "Phụ kiện",
+    "cap3": "Phụ kiện cho đồng hồ thông minh",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 212,
+    "cap1": "Điện Thoại & Phụ Kiện",
+    "cap2": "Điện thoại",
+    "cap3": null,
+    "phiCoDinh": 0.02
+  },
+  {
+    "stt": 213,
+    "cap1": "Điện Thoại & Phụ Kiện",
+    "cap2": "Khác",
+    "cap3": null,
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 214,
+    "cap1": "Điện Thoại & Phụ Kiện",
+    "cap2": "Thẻ sim",
+    "cap3": null,
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 215,
+    "cap1": "Điện Thoại & Phụ Kiện",
+    "cap2": "Máy tính bảng",
+    "cap3": null,
+    "phiCoDinh": 0.033
+  },
+  {
+    "stt": 216,
+    "cap1": "Điện Thoại & Phụ Kiện",
+    "cap2": "Bộ đàm",
+    "cap3": null,
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 217,
+    "cap1": "Điện Thoại & Phụ Kiện",
+    "cap2": "Thiết bị đeo thông minh",
+    "cap3": "Thiết bị định vị GPS",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 218,
+    "cap1": "Điện Thoại & Phụ Kiện",
+    "cap2": "Thiết bị đeo thông minh",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 219,
+    "cap1": "Điện Thoại & Phụ Kiện",
+    "cap2": "Thiết bị đeo thông minh",
+    "cap3": "Đồng hồ thông minh & Vòng đeo tay sức khỏe",
+    "phiCoDinh": 0.105
+  },
+  {
+    "stt": 220,
+    "cap1": "Điện Thoại & Phụ Kiện",
+    "cap2": "Thiết bị đeo thông minh",
+    "cap3": "Thiết bị thực tế ảo",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 221,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Sức khỏe & Làm đẹp",
+    "cap3": "Nha khoa",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 222,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Sức khỏe & Làm đẹp",
+    "cap3": "Gym & Yoga",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 223,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Sức khỏe & Làm đẹp",
+    "cap3": "Salon tóc",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 224,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Sức khỏe & Làm đẹp",
+    "cap3": "Chăm sóc sức khỏe",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 225,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Sức khỏe & Làm đẹp",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 226,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Sức khỏe & Làm đẹp",
+    "cap3": "Spa & Massage",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 227,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Sự kiện & Giải trí",
+    "cap3": "Hòa nhạc & Triển lãm",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 228,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Sự kiện & Giải trí",
+    "cap3": "Sự kiện & Hội thảo",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 229,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Sự kiện & Giải trí",
+    "cap3": "Vé xem phim - Kịch",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 230,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Sự kiện & Giải trí",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 231,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Sự kiện & Giải trí",
+    "cap3": "Công viên giải trí",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 232,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Nhà hàng & Ăn uống",
+    "cap3": "Ăn tại chỗ & Mang đi",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 233,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Nhà hàng & Ăn uống",
+    "cap3": "Giao thức ăn",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 234,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Nhà hàng & Ăn uống",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 235,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Khóa học",
+    "cap3": null,
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 236,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Khác",
+    "cap3": null,
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 237,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Dịch vụ khác",
+    "cap3": "Lắp đặt sửa chữa máy lạnh",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 238,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Dịch vụ khác",
+    "cap3": "Giao & Vận chuyển hàng hóa",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 239,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Dịch vụ khác",
+    "cap3": "Thiết kế",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 240,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Dịch vụ khác",
+    "cap3": "Dọn dẹp nhà cửa",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 241,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Dịch vụ khác",
+    "cap3": "Bảo hiểm",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 242,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Dịch vụ khác",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 243,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Dịch vụ khác",
+    "cap3": "Gói chụp hình",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 244,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Mã quà tặng Shopee",
+    "cap3": "Digital Products",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 245,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Mã quà tặng Shopee",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 246,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Mã quà tặng Shopee",
+    "cap3": "Shopee Official",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 247,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Mã quà tặng Shopee",
+    "cap3": "Phí quảng cáo Shopee",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 248,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Mua sắm",
+    "cap3": "Trung tâm thương mại",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 249,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Mua sắm",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 250,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Mua sắm",
+    "cap3": "Siêu thị",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 251,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Nạp tiền tài khoản",
+    "cap3": "Internet & Truyền hình cáp",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 252,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Nạp tiền tài khoản",
+    "cap3": "Gói data 3G/4G",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 253,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Nạp tiền tài khoản",
+    "cap3": "Nạp trực tiếp & Mua mã thẻ",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 254,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Nạp tiền tài khoản",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 255,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Gọi xe",
+    "cap3": null,
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 256,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Du lịch & Khách sạn",
+    "cap3": "Đặt phòng",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 257,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Du lịch & Khách sạn",
+    "cap3": "Vé xe buýt",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 258,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Du lịch & Khách sạn",
+    "cap3": "Thuê phương tiện",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 259,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Du lịch & Khách sạn",
+    "cap3": "Vé máy bay",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 260,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Du lịch & Khách sạn",
+    "cap3": "Suối nước nóng",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 261,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Du lịch & Khách sạn",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 262,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Du lịch & Khách sạn",
+    "cap3": "Tour du lịch",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 263,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Du lịch & Khách sạn",
+    "cap3": "Vé tàu lửa",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 264,
+    "cap1": "Voucher & Dịch vụ",
+    "cap2": "Thanh toán hóa đơn",
+    "cap3": null,
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 265,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Phụ kiện trẻ em & trẻ sơ sinh",
+    "cap3": "Túi xách & vali",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 266,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Phụ kiện trẻ em & trẻ sơ sinh",
+    "cap3": "Thắt lưng",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 267,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Phụ kiện trẻ em & trẻ sơ sinh",
+    "cap3": "Chụp tai",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 268,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Phụ kiện trẻ em & trẻ sơ sinh",
+    "cap3": "Mắt kính",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 269,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Phụ kiện trẻ em & trẻ sơ sinh",
+    "cap3": "Găng tay",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 270,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Phụ kiện trẻ em & trẻ sơ sinh",
+    "cap3": "Phụ kiện tóc",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 271,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Phụ kiện trẻ em & trẻ sơ sinh",
+    "cap3": "Mũ & mũ lưỡi trai",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 272,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Phụ kiện trẻ em & trẻ sơ sinh",
+    "cap3": "Trang sức",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 273,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Phụ kiện trẻ em & trẻ sơ sinh",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 274,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Phụ kiện trẻ em & trẻ sơ sinh",
+    "cap3": "Đồ đi mưa",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 275,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Phụ kiện trẻ em & trẻ sơ sinh",
+    "cap3": "Khăn",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 276,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Phụ kiện trẻ em & trẻ sơ sinh",
+    "cap3": "Tất",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 277,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Phụ kiện trẻ em & trẻ sơ sinh",
+    "cap3": "Đồng hồ",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 278,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo trẻ em",
+    "cap3": "Bộ đồ liền thân",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 279,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo trẻ em",
+    "cap3": "Quần/Chân váy",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 280,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo trẻ em",
+    "cap3": "Váy",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 281,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo trẻ em",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 282,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo trẻ em",
+    "cap3": "Áo khoác nhẹ",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 283,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo trẻ em",
+    "cap3": "Bộ quần áo",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 284,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo trẻ em",
+    "cap3": "Đồ ngủ",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 285,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo trẻ em",
+    "cap3": "Đồ bơi",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 286,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo trẻ em",
+    "cap3": "Áo",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 287,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo trẻ em",
+    "cap3": "Áo khoác mùa đông",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 288,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Bao tay trẻ em & Tất",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 289,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo bé trai",
+    "cap3": "Quần",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 290,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo bé trai",
+    "cap3": "Đồ hóa trang",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 291,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo bé trai",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 292,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo bé trai",
+    "cap3": "Áo khoác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 293,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo bé trai",
+    "cap3": "Đồ ngủ",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 294,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo bé trai",
+    "cap3": "Com lê & đồ bộ",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 295,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo bé trai",
+    "cap3": "Đồ bơi",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 296,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo bé trai",
+    "cap3": "Áo",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 297,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo bé trai",
+    "cap3": "Đồ lót",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 298,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Giày bé trai",
+    "cap3": "Bốt",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 299,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Giày bé trai",
+    "cap3": "Dép lê",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 300,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Giày bé trai",
+    "cap3": "Giày tây",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 301,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Giày bé trai",
+    "cap3": "Giày lười",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 302,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Giày bé trai",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 303,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Giày bé trai",
+    "cap3": "Dép quai hậu",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 304,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Giày bé trai",
+    "cap3": "Giày thể thao",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 305,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo bé gái",
+    "cap3": "Quần",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 306,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo bé gái",
+    "cap3": "Đồ hóa trang",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 307,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo bé gái",
+    "cap3": "Váy",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 308,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo bé gái",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 309,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo bé gái",
+    "cap3": "Áo khoác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 310,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo bé gái",
+    "cap3": "Đồ liền thân",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 311,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo bé gái",
+    "cap3": "Đồ ngủ",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 312,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo bé gái",
+    "cap3": "Com lê & đồ bộ",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 313,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo bé gái",
+    "cap3": "Đồ bơi",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 314,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo bé gái",
+    "cap3": "Áo",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 315,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Quần áo bé gái",
+    "cap3": "Đồ lót",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 316,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Giày bé gái",
+    "cap3": "Bốt",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 317,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Giày bé gái",
+    "cap3": "Giày bệt",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 318,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Giày bé gái",
+    "cap3": "Dép lê",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 319,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Giày bé gái",
+    "cap3": "Giày lười",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 320,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Giày bé gái",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 321,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Giày bé gái",
+    "cap3": "Dép quai hậu",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 322,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Giày bé gái",
+    "cap3": "Giày thể thao",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 323,
+    "cap1": "Thời trang trẻ em & trẻ sơ sinh",
+    "cap2": "Khác",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 324,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Bộ phụ kiện",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 325,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Phụ kiện thêm",
+    "cap3": "Trâm & Ghim cài áo",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 326,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Phụ kiện thêm",
+    "cap3": "Mặt dây chuyền và Charm",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 327,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Phụ kiện thêm",
+    "cap3": "Măng sét nam",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 328,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Phụ kiện thêm",
+    "cap3": "Khăn tay",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 329,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Phụ kiện thêm",
+    "cap3": "Khẩu trang thời trang",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 330,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Phụ kiện thêm",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 331,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Phụ kiện thêm",
+    "cap3": "Miếng vá áo",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 332,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Phụ kiện thêm",
+    "cap3": "Hình xăm dán",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 333,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Lắc chân",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 334,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Thắt lưng",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 335,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Vòng tay & Lắc tay",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 336,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Bông tai",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 337,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Kính mắt",
+    "cap3": "Hộp kính và phụ kiện",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 338,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Kính mắt",
+    "cap3": "Gọng kính",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 339,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Kính mắt",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 340,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Kính mắt",
+    "cap3": "Kính mát",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 341,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Fine Jewelry",
+    "cap3": "Anklets",
+    "phiCoDinh": 0.085
+  },
+  {
+    "stt": 342,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Fine Jewelry",
+    "cap3": "Bracelets & Bangles",
+    "phiCoDinh": 0.085
+  },
+  {
+    "stt": 343,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Fine Jewelry",
+    "cap3": "Brooches & Pins",
+    "phiCoDinh": 0.085
+  },
+  {
+    "stt": 344,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Fine Jewelry",
+    "cap3": "Charms, Pendants & Ornaments",
+    "phiCoDinh": 0.085
+  },
+  {
+    "stt": 345,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Fine Jewelry",
+    "cap3": "Earrings",
+    "phiCoDinh": 0.085
+  },
+  {
+    "stt": 346,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Fine Jewelry",
+    "cap3": "Jewellery Set",
+    "phiCoDinh": 0.085
+  },
+  {
+    "stt": 347,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Fine Jewelry",
+    "cap3": "Necklaces",
+    "phiCoDinh": 0.085
+  },
+  {
+    "stt": 348,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Fine Jewelry",
+    "cap3": "Others",
+    "phiCoDinh": 0.085
+  },
+  {
+    "stt": 349,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Fine Jewelry",
+    "cap3": "Rings",
+    "phiCoDinh": 0.085
+  },
+  {
+    "stt": 350,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Găng tay",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 351,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Phụ kiện tóc",
+    "cap3": "Kẹp tóc",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 352,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Phụ kiện tóc",
+    "cap3": "Đồ buộc tóc & Nơ",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 353,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Phụ kiện tóc",
+    "cap3": "Băng đô tóc",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 354,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Phụ kiện tóc",
+    "cap3": "Cài tóc, vương miện cài tóc",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 355,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Phụ kiện tóc",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 356,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Phụ kiện tóc",
+    "cap3": "Tóc giả & Tóc nối",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 357,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Mũ",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 358,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Kim loại quý",
+    "cap3": "Kim cương",
+    "phiCoDinh": 0.085
+  },
+  {
+    "stt": 359,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Kim loại quý",
+    "cap3": "Ngọc bích, Cẩm thạch",
+    "phiCoDinh": 0.085
+  },
+  {
+    "stt": 360,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Kim loại quý",
+    "cap3": "Khác",
+    "phiCoDinh": 0.085
+  },
+  {
+    "stt": 361,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Kim loại quý",
+    "cap3": "Platinum & Vàng",
+    "phiCoDinh": 0.085
+  },
+  {
+    "stt": 362,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Kim loại quý",
+    "cap3": "Bạc",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 363,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Dây chuyền",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 364,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Cà vạt & Nơ cổ",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 365,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Khác",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 366,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Nhẫn",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 367,
+    "cap1": "Phụ Kiện Thời Trang",
+    "cap2": "Khăn choàng",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 368,
+    "cap1": "Túi Ví Nam",
+    "cap2": "Ba lô",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 369,
+    "cap1": "Túi Ví Nam",
+    "cap2": "Cặp xách công sở",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 370,
+    "cap1": "Túi Ví Nam",
+    "cap2": "Ví cầm tay",
+    "cap3": null,
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 371,
+    "cap1": "Túi Ví Nam",
+    "cap2": "Túi đeo chéo",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 372,
+    "cap1": "Túi Ví Nam",
+    "cap2": "Cặp laptop",
+    "cap3": "Ba lô laptop",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 373,
+    "cap1": "Túi Ví Nam",
+    "cap2": "Cặp laptop",
+    "cap3": "Túi & cặp đựng laptop",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 374,
+    "cap1": "Túi Ví Nam",
+    "cap2": "Cặp laptop",
+    "cap3": "Túi chống sốc laptop",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 375,
+    "cap1": "Túi Ví Nam",
+    "cap2": "Cặp laptop",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 376,
+    "cap1": "Túi Ví Nam",
+    "cap2": "Khác",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 377,
+    "cap1": "Túi Ví Nam",
+    "cap2": "Túi tote",
+    "cap3": null,
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 378,
+    "cap1": "Túi Ví Nam",
+    "cap2": "Túi đeo hông & Túi đeo ngực",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 379,
+    "cap1": "Túi Ví Nam",
+    "cap2": "Bóp/ Ví",
+    "cap3": "Ví gập đôi & gập ba",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 380,
+    "cap1": "Túi Ví Nam",
+    "cap2": "Bóp/ Ví",
+    "cap3": "Ví đựng thẻ",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 381,
+    "cap1": "Túi Ví Nam",
+    "cap2": "Bóp/ Ví",
+    "cap3": "Ví đựng tiền xu",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 382,
+    "cap1": "Túi Ví Nam",
+    "cap2": "Bóp/ Ví",
+    "cap3": "Ví dài",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 383,
+    "cap1": "Túi Ví Nam",
+    "cap2": "Bóp/ Ví",
+    "cap3": "Ví khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 384,
+    "cap1": "Túi Ví Nam",
+    "cap2": "Bóp/ Ví",
+    "cap3": "Ví đựng điện thoại & chìa khóa",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 385,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Đồ hóa trang",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 386,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Hoodie & Áo nỉ",
+    "cap3": "Áo hoodie",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 387,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Hoodie & Áo nỉ",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 388,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Hoodie & Áo nỉ",
+    "cap3": "Áo nỉ",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 389,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Đồ lót",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 390,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Đồ lót",
+    "cap3": "Sexy Innerwear",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 391,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Đồ lót",
+    "cap3": "Đồ lót giữ nhiệt",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 392,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Đồ lót",
+    "cap3": "Áo lót",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 393,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Đồ lót",
+    "cap3": "Quần lót",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 394,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Áo khoác",
+    "cap3": "Áo khoác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 395,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Áo khoác",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 396,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Áo khoác",
+    "cap3": "Áo khoác vest",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 397,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Áo khoác",
+    "cap3": "Áo khoác mùa đông & Áo choàng",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 398,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Quần jean",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 399,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Trang phục ngành nghề",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 400,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Khác",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 401,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Quần dài",
+    "cap3": "Quần túi hộp",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 402,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Quần dài",
+    "cap3": "Quần jogger",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 403,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Quần dài",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 404,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Quần dài",
+    "cap3": "Quần dài",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 405,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Bộ",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 406,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Quần đùi",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 407,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Đồ ngủ",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 408,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Vớ/ Tất",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 409,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Com lê",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 410,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Com lê",
+    "cap3": "Áo Khoác & Blazer",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 411,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Com lê",
+    "cap3": "Quần âu",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 412,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Com lê",
+    "cap3": "Bộ Com lê",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 413,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Com lê",
+    "cap3": "Áo vest & Gi lê",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 414,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Áo len",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 415,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Áo",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 416,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Áo",
+    "cap3": "Áo polo",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 417,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Áo",
+    "cap3": "Áo sơ mi",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 418,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Áo",
+    "cap3": "Áo thun",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 419,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Áo",
+    "cap3": "Áo ba lỗ",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 420,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Trang phục truyền thống",
+    "cap3": "Quần",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 421,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Trang phục truyền thống",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 422,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Trang phục truyền thống",
+    "cap3": "Bộ",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 423,
+    "cap1": "Thời Trang Nam",
+    "cap2": "Trang phục truyền thống",
+    "cap3": "Áo",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 424,
+    "cap1": "Giày Dép Nam",
+    "cap2": "Bốt",
+    "cap3": "Bốt thời trang",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 425,
+    "cap1": "Giày Dép Nam",
+    "cap2": "Bốt",
+    "cap3": "Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 426,
+    "cap1": "Giày Dép Nam",
+    "cap2": "Bốt",
+    "cap3": "Bốt đi mưa",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 427,
+    "cap1": "Giày Dép Nam",
+    "cap2": "Bốt",
+    "cap3": "Bốt bảo hộ",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 428,
+    "cap1": "Giày Dép Nam",
+    "cap2": "Giày tây lười",
+    "cap3": null,
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 429,
+    "cap1": "Giày Dép Nam",
+    "cap2": "Khác",
+    "cap3": null,
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 430,
+    "cap1": "Giày Dép Nam",
+    "cap2": "Giày Oxfords & Giày buộc dây",
+    "cap3": null,
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 431,
+    "cap1": "Giày Dép Nam",
+    "cap2": "Xăng-đan & Dép",
+    "cap3": "Dép xỏ ngón",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 432,
+    "cap1": "Giày Dép Nam",
+    "cap2": "Xăng-đan & Dép",
+    "cap3": "Dép mát-xa",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 433,
+    "cap1": "Giày Dép Nam",
+    "cap2": "Xăng-đan & Dép",
+    "cap3": "Dép đi trong nhà",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 434,
+    "cap1": "Giày Dép Nam",
+    "cap2": "Xăng-đan & Dép",
+    "cap3": "Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 435,
+    "cap1": "Giày Dép Nam",
+    "cap2": "Xăng-đan & Dép",
+    "cap3": "Xăng-đan",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 436,
+    "cap1": "Giày Dép Nam",
+    "cap2": "Phụ kiện giày dép",
+    "cap3": "Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 437,
+    "cap1": "Giày Dép Nam",
+    "cap2": "Phụ kiện giày dép",
+    "cap3": "Dụng cụ chăm sóc & Vệ sinh giày",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 438,
+    "cap1": "Giày Dép Nam",
+    "cap2": "Phụ kiện giày dép",
+    "cap3": "Khử mùi giày dép",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 439,
+    "cap1": "Giày Dép Nam",
+    "cap2": "Phụ kiện giày dép",
+    "cap3": "Cây đón gót & Giữ form giày",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 440,
+    "cap1": "Giày Dép Nam",
+    "cap2": "Phụ kiện giày dép",
+    "cap3": "Lót giày",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 441,
+    "cap1": "Giày Dép Nam",
+    "cap2": "Phụ kiện giày dép",
+    "cap3": "Dây giày",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 442,
+    "cap1": "Giày Dép Nam",
+    "cap2": "Giày sục",
+    "cap3": null,
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 443,
+    "cap1": "Giày Dép Nam",
+    "cap2": "Giày thể thao/ Sneakers",
+    "cap3": null,
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 444,
+    "cap1": "Muslim Fashion",
+    "cap2": "Kid Muslim Wear",
+    "cap3": "Girl's Muslim Attire",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 445,
+    "cap1": "Muslim Fashion",
+    "cap2": "Men Muslim Wear",
+    "cap3": "Sarong",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 446,
+    "cap1": "Muslim Fashion",
+    "cap2": "Prayer Attire & Equipment",
+    "cap3": "Peci, Songkok & Kopiah",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 447,
+    "cap1": "Muslim Fashion",
+    "cap2": "Sets",
+    "cap3": null,
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 448,
+    "cap1": "Muslim Fashion",
+    "cap2": "Women Muslim Wear",
+    "cap3": "Accessories",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 449,
+    "cap1": "Muslim Fashion",
+    "cap2": "Women Muslim Wear",
+    "cap3": "Bottoms",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 450,
+    "cap1": "Muslim Fashion",
+    "cap2": "Women Muslim Wear",
+    "cap3": "Dresses",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 451,
+    "cap1": "Muslim Fashion",
+    "cap2": "Women Muslim Wear",
+    "cap3": "Veils",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 452,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Khác",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 453,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Phụ Kiện Thể Thao & Dã Ngoại",
+    "cap3": "Túi Chống Thấm",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 454,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Phụ Kiện Thể Thao & Dã Ngoại",
+    "cap3": "Đồ Bảo Hộ Gym",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 455,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Phụ Kiện Thể Thao & Dã Ngoại",
+    "cap3": "Dụng Cụ Bảo Vệ Miệng & Băng Keo Thể Thao",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 456,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Phụ Kiện Thể Thao & Dã Ngoại",
+    "cap3": "Phụ Kiện Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 457,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Phụ Kiện Thể Thao & Dã Ngoại",
+    "cap3": "Áo Mưa",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 458,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Phụ Kiện Thể Thao & Dã Ngoại",
+    "cap3": "Túi Đựng Giày",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 459,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Phụ Kiện Thể Thao & Dã Ngoại",
+    "cap3": "Mũ Thể Thao & Dã Ngoại",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 460,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Phụ Kiện Thể Thao & Dã Ngoại",
+    "cap3": "Băng Đô Thể Thao",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 461,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Phụ Kiện Thể Thao & Dã Ngoại",
+    "cap3": "Vòng Tay Thể Thao",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 462,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Phụ Kiện Thể Thao & Dã Ngoại",
+    "cap3": "Đồng Hồ Bấm Giây & Máy Đếm Bước Chân",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 463,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Phụ Kiện Thể Thao & Dã Ngoại",
+    "cap3": "Phụ Kiện Tập Luyện",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 464,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Phụ Kiện Thể Thao & Dã Ngoại",
+    "cap3": "Ô/Dù",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 465,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Thời Trang Thể Thao & Dã Ngoại",
+    "cap3": "Quần Thể Thao",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 466,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Thời Trang Thể Thao & Dã Ngoại",
+    "cap3": "Áo Khoác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 467,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Thời Trang Thể Thao & Dã Ngoại",
+    "cap3": "Áo CLB",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 468,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Thời Trang Thể Thao & Dã Ngoại",
+    "cap3": "Thời Trang Thể Thao Trẻ Em",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 469,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Thời Trang Thể Thao & Dã Ngoại",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 470,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Thời Trang Thể Thao & Dã Ngoại",
+    "cap3": "Bộ Đồ Thể Thao",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 471,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Thời Trang Thể Thao & Dã Ngoại",
+    "cap3": "Áo Lót Thể Thao",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 472,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Thời Trang Thể Thao & Dã Ngoại",
+    "cap3": "Đồ Bơi",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 473,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Thời Trang Thể Thao & Dã Ngoại",
+    "cap3": "Áo Thể Thao",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 474,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Dụng Cụ Thể Thao & Dã Ngoại",
+    "cap3": "Bắn Cung",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 475,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Dụng Cụ Thể Thao & Dã Ngoại",
+    "cap3": "Cầu Lông",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 476,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Dụng Cụ Thể Thao & Dã Ngoại",
+    "cap3": "Bóng Chày & Bóng Ném",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 477,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Dụng Cụ Thể Thao & Dã Ngoại",
+    "cap3": "Bóng Rổ",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 478,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Dụng Cụ Thể Thao & Dã Ngoại",
+    "cap3": "Bida",
+    "phiCoDinh": 0.085
+  },
+  {
+    "stt": 479,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Dụng Cụ Thể Thao & Dã Ngoại",
+    "cap3": "Thể Thao Ván Trượt",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 480,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Dụng Cụ Thể Thao & Dã Ngoại",
+    "cap3": "Chèo Thuyền",
+    "phiCoDinh": 0.085
+  },
+  {
+    "stt": 481,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Dụng Cụ Thể Thao & Dã Ngoại",
+    "cap3": "Đấm bốc & Võ Tổng Hợp",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 482,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Dụng Cụ Thể Thao & Dã Ngoại",
+    "cap3": "Cắm Trại & Dã ngoại",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 483,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Dụng Cụ Thể Thao & Dã Ngoại",
+    "cap3": "Đạp Xe",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 484,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Dụng Cụ Thể Thao & Dã Ngoại",
+    "cap3": "Ném Phi Tiêu",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 485,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Dụng Cụ Thể Thao & Dã Ngoại",
+    "cap3": "Câu Cá",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 486,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Dụng Cụ Thể Thao & Dã Ngoại",
+    "cap3": "Thiết Bị Thể Thao",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 487,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Dụng Cụ Thể Thao & Dã Ngoại",
+    "cap3": "Golf",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 488,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Dụng Cụ Thể Thao & Dã Ngoại",
+    "cap3": "Trượt Tuyết & Thể Thao Mùa Đông",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 489,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Dụng Cụ Thể Thao & Dã Ngoại",
+    "cap3": "Môn Thể Thao Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 490,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Dụng Cụ Thể Thao & Dã Ngoại",
+    "cap3": "Leo Núi",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 491,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Dụng Cụ Thể Thao & Dã Ngoại",
+    "cap3": "Bóng Bầu Dục",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 492,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Dụng Cụ Thể Thao & Dã Ngoại",
+    "cap3": "Bắn Súng & Game Sinh Tồn",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 493,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Dụng Cụ Thể Thao & Dã Ngoại",
+    "cap3": "Bóng Đá, Futsal & Cầu Mây",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 494,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Dụng Cụ Thể Thao & Dã Ngoại",
+    "cap3": "Bóng Quần",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 495,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Dụng Cụ Thể Thao & Dã Ngoại",
+    "cap3": "Lướt Ván",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 496,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Dụng Cụ Thể Thao & Dã Ngoại",
+    "cap3": "Bơi Lội & Lặn",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 497,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Dụng Cụ Thể Thao & Dã Ngoại",
+    "cap3": "Bóng Bàn",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 498,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Dụng Cụ Thể Thao & Dã Ngoại",
+    "cap3": "Tennis",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 499,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Dụng Cụ Thể Thao & Dã Ngoại",
+    "cap3": "Bóng Chuyền",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 500,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Dụng Cụ Thể Thao & Dã Ngoại",
+    "cap3": "Yoga & Pilates",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 501,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Giày Thể Thao",
+    "cap3": "Giày Cầu Lông",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 502,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Giày Thể Thao",
+    "cap3": "Giày Bóng Rổ",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 503,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Giày Thể Thao",
+    "cap3": "Giày Futsal",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 504,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Giày Thể Thao",
+    "cap3": "Giày Dã Ngoại",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 505,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Giày Thể Thao",
+    "cap3": "Giày Thể Thao Trẻ Em",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 506,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Giày Thể Thao",
+    "cap3": "Giày Thể Thao Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 507,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Giày Thể Thao",
+    "cap3": "Giày Chạy Bộ",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 508,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Giày Thể Thao",
+    "cap3": "Giày Bóng Đá",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 509,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Giày Thể Thao",
+    "cap3": "Giày Tennis",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 510,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Giày Thể Thao",
+    "cap3": "Giày Tập Luyện",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 511,
+    "cap1": "Thể Thao & Dã Ngoại",
+    "cap2": "Giày Thể Thao",
+    "cap3": "Giày Bóng Chuyền",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 512,
+    "cap1": "Du lịch & Hành lý",
+    "cap2": "Vali",
+    "cap3": null,
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 513,
+    "cap1": "Du lịch & Hành lý",
+    "cap2": "Khác",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 514,
+    "cap1": "Du lịch & Hành lý",
+    "cap2": "Phụ kiện du lịch",
+    "cap3": "Khóa vali",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 515,
+    "cap1": "Du lịch & Hành lý",
+    "cap2": "Phụ kiện du lịch",
+    "cap3": "Áo trùm vali",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 516,
+    "cap1": "Du lịch & Hành lý",
+    "cap2": "Phụ kiện du lịch",
+    "cap3": "Cân hành lý",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 517,
+    "cap1": "Du lịch & Hành lý",
+    "cap2": "Phụ kiện du lịch",
+    "cap3": "Dây đai vali",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 518,
+    "cap1": "Du lịch & Hành lý",
+    "cap2": "Phụ kiện du lịch",
+    "cap3": "Thẻ hành lý",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 519,
+    "cap1": "Du lịch & Hành lý",
+    "cap2": "Phụ kiện du lịch",
+    "cap3": "Phụ kiện khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 520,
+    "cap1": "Du lịch & Hành lý",
+    "cap2": "Phụ kiện du lịch",
+    "cap3": "Ví hộ chiếu",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 521,
+    "cap1": "Du lịch & Hành lý",
+    "cap2": "Phụ kiện du lịch",
+    "cap3": "Túi du lịch nhiều ngăn",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 522,
+    "cap1": "Du lịch & Hành lý",
+    "cap2": "Phụ kiện du lịch",
+    "cap3": "Gối & Bịt mắt",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 523,
+    "cap1": "Du lịch & Hành lý",
+    "cap2": "Phụ kiện du lịch",
+    "cap3": "Bộ chiết mỹ phẩm",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 524,
+    "cap1": "Du lịch & Hành lý",
+    "cap2": "Túi du lịch",
+    "cap3": "Túi dây rút",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 525,
+    "cap1": "Du lịch & Hành lý",
+    "cap2": "Túi du lịch",
+    "cap3": "Túi trống",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 526,
+    "cap1": "Du lịch & Hành lý",
+    "cap2": "Túi du lịch",
+    "cap3": "Túi gấp gọn",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 527,
+    "cap1": "Du lịch & Hành lý",
+    "cap2": "Túi du lịch",
+    "cap3": "Túi khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 528,
+    "cap1": "Đồng Hồ",
+    "cap2": "Đồng hồ nam",
+    "cap3": null,
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 529,
+    "cap1": "Đồng Hồ",
+    "cap2": "Khác",
+    "cap3": null,
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 530,
+    "cap1": "Đồng Hồ",
+    "cap2": "Bộ đồng hồ & Đồng hồ cặp",
+    "cap3": null,
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 531,
+    "cap1": "Đồng Hồ",
+    "cap2": "Phụ kiện đồng hồ",
+    "cap3": "Pin đồng hồ",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 532,
+    "cap1": "Đồng Hồ",
+    "cap2": "Phụ kiện đồng hồ",
+    "cap3": "Hộp đựng đồng hồ",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 533,
+    "cap1": "Đồng Hồ",
+    "cap2": "Phụ kiện đồng hồ",
+    "cap3": "Khóa đồng hồ",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 534,
+    "cap1": "Đồng Hồ",
+    "cap2": "Phụ kiện đồng hồ",
+    "cap3": "Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 535,
+    "cap1": "Đồng Hồ",
+    "cap2": "Phụ kiện đồng hồ",
+    "cap3": "Dụng cụ sửa chữa",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 536,
+    "cap1": "Đồng Hồ",
+    "cap2": "Phụ kiện đồng hồ",
+    "cap3": "Dây đồng hồ",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 537,
+    "cap1": "Đồng Hồ",
+    "cap2": "Đồng hồ nữ",
+    "cap3": null,
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 538,
+    "cap1": "Túi Ví Nữ",
+    "cap2": "Ba lô",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 539,
+    "cap1": "Túi Ví Nữ",
+    "cap2": "Phụ kiện túi",
+    "cap3": "Dụng cụ treo/đựng túi",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 540,
+    "cap1": "Túi Ví Nữ",
+    "cap2": "Phụ kiện túi",
+    "cap3": "Túi đa ngăn tiện ích",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 541,
+    "cap1": "Túi Ví Nữ",
+    "cap2": "Phụ kiện túi",
+    "cap3": "Dây đeo túi",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 542,
+    "cap1": "Túi Ví Nữ",
+    "cap2": "Phụ kiện túi",
+    "cap3": "Charm và phụ kiện gắn túi",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 543,
+    "cap1": "Túi Ví Nữ",
+    "cap2": "Phụ kiện túi",
+    "cap3": "Dụng cụ vệ sinh và chăm sóc túi",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 544,
+    "cap1": "Túi Ví Nữ",
+    "cap2": "Phụ kiện túi",
+    "cap3": "Phụ kiện khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 545,
+    "cap1": "Túi Ví Nữ",
+    "cap2": "Ví dự tiệc & Ví cầm tay",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 546,
+    "cap1": "Túi Ví Nữ",
+    "cap2": "Túi đeo chéo & Túi đeo vai",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 547,
+    "cap1": "Túi Ví Nữ",
+    "cap2": "Cặp laptop",
+    "cap3": "Ba lô laptop",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 548,
+    "cap1": "Túi Ví Nữ",
+    "cap2": "Cặp laptop",
+    "cap3": "Túi & cặp đứng laptop",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 549,
+    "cap1": "Túi Ví Nữ",
+    "cap2": "Cặp laptop",
+    "cap3": "Túi chống sốc laptop",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 550,
+    "cap1": "Túi Ví Nữ",
+    "cap2": "Cặp laptop",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 551,
+    "cap1": "Túi Ví Nữ",
+    "cap2": "Khác",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 552,
+    "cap1": "Túi Ví Nữ",
+    "cap2": "Túi quai xách",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 553,
+    "cap1": "Túi Ví Nữ",
+    "cap2": "Túi tote",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 554,
+    "cap1": "Túi Ví Nữ",
+    "cap2": "Túi đeo hông & Túi đeo ngực",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 555,
+    "cap1": "Túi Ví Nữ",
+    "cap2": "Ví",
+    "cap3": "Ví gập",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 556,
+    "cap1": "Túi Ví Nữ",
+    "cap2": "Ví",
+    "cap3": "Ví đựng thẻ",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 557,
+    "cap1": "Túi Ví Nữ",
+    "cap2": "Ví",
+    "cap3": "Ví mini đựng tiền",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 558,
+    "cap1": "Túi Ví Nữ",
+    "cap2": "Ví",
+    "cap3": "Ví dài",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 559,
+    "cap1": "Túi Ví Nữ",
+    "cap2": "Ví",
+    "cap3": "Ví khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 560,
+    "cap1": "Túi Ví Nữ",
+    "cap2": "Ví",
+    "cap3": "Ví đựng điện thoại & chìa khóa",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 561,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ hóa trang",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 562,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đầm",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 563,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Vải",
+    "cap3": "Vải Batik",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 564,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Vải",
+    "cap3": "Vải canvas",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 565,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Vải",
+    "cap3": "Vải cotton",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 566,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Vải",
+    "cap3": "Vải denim",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 567,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Vải",
+    "cap3": "Vải da",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 568,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Vải",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 569,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Vải",
+    "cap3": "Vải nhung, lụa, satin",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 570,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Vải",
+    "cap3": "Vải nylon",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 571,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Vải",
+    "cap3": "Vải len",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 572,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Hoodie và Áo nỉ",
+    "cap3": "Áo hoodies",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 573,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Hoodie và Áo nỉ",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 574,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Hoodie và Áo nỉ",
+    "cap3": "Áo khoác nỉ",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 575,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Áo khoác",
+    "cap3": "Áo blazer",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 576,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Áo khoác",
+    "cap3": "Áo choàng",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 577,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Áo khoác",
+    "cap3": "Áo khoác ngoài",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 578,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Áo khoác",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 579,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Áo khoác",
+    "cap3": "Áo vest",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 580,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Áo khoác",
+    "cap3": "Áo khoác mùa đông",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 581,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Quần jeans",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 582,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ liền thân",
+    "cap3": "Đồ bay (Jumpsuits)",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 583,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ liền thân",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 584,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ liền thân",
+    "cap3": "Quần yếm",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 585,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ liền thân",
+    "cap3": "Đồ bay ngắn (playsuits)",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 586,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ lót",
+    "cap3": "Phụ kiện đồ lót",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 587,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ lót",
+    "cap3": "Áo ngực",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 588,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ lót",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 589,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ lót",
+    "cap3": "Quần lót",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 590,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ lót",
+    "cap3": "Đồ lót bảo hộ",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 591,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ lót",
+    "cap3": "Bộ đồ lót",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 592,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ lót",
+    "cap3": "Đồ lót gợi cảm",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 593,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ lót",
+    "cap3": "Đồ định hình",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 594,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ lót",
+    "cap3": "Đồ lót giữ nhiệt",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 595,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ Bầu",
+    "cap3": "Đồ mặc cho con bú",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 596,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ Bầu",
+    "cap3": "Quần bầu, Váy bầu",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 597,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ Bầu",
+    "cap3": "Đầm bầu",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 598,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ Bầu",
+    "cap3": "Bộ đồ bầu",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 599,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ Bầu",
+    "cap3": "Áo bầu",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 600,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ Bầu",
+    "cap3": "Áo ngực cho con bú",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 601,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ Bầu",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 602,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Khác",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 603,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Quần",
+    "cap3": "Quần legging",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 604,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Quần",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 605,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Quần",
+    "cap3": "Quần dài",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 606,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Bộ",
+    "cap3": "Bộ đồ đôi",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 607,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Bộ",
+    "cap3": "Bộ đồ gia đình",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 608,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Bộ",
+    "cap3": "Đồ lẻ",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 609,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Bộ",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 610,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Quần đùi",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 611,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Quần đùi",
+    "cap3": "Quần đùi",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 612,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Quần đùi",
+    "cap3": "Quần váy",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 613,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Váy",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 614,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ ngủ",
+    "cap3": "Áo choàng ngủ, Áo khoác kimono",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 615,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ ngủ",
+    "cap3": "Váy ngủ",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 616,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ ngủ",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 617,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ ngủ",
+    "cap3": "Pyjama",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 618,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Vớ/ Tất",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 619,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Vớ/ Tất",
+    "cap3": "Quần tất",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 620,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Vớ/ Tất",
+    "cap3": "Tất",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 621,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Áo len",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 622,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Áo",
+    "cap3": "Áo liền thân",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 623,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Áo",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 624,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Áo",
+    "cap3": "Áo polo",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 625,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Áo",
+    "cap3": "Áo sơ mi",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 626,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Áo",
+    "cap3": "Áo thun",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 627,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Áo",
+    "cap3": "Áo hai dây và ba lỗ",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 628,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Áo",
+    "cap3": "Áo ống",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 629,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ truyền thống",
+    "cap3": "Quần và chân váy",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 630,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ truyền thống",
+    "cap3": "Đầm",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 631,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ truyền thống",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 632,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ truyền thống",
+    "cap3": "Bộ",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 633,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Đồ truyền thống",
+    "cap3": "Áo",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 634,
+    "cap1": "Thời Trang Nữ",
+    "cap2": "Váy cưới",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 635,
+    "cap1": "Giày Dép Nữ",
+    "cap2": "Bốt",
+    "cap3": "Bốt thời trang",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 636,
+    "cap1": "Giày Dép Nữ",
+    "cap2": "Bốt",
+    "cap3": "Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 637,
+    "cap1": "Giày Dép Nữ",
+    "cap2": "Bốt",
+    "cap3": "Bốt đi mưa",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 638,
+    "cap1": "Giày Dép Nữ",
+    "cap2": "Xăng-đan và dép",
+    "cap3": "Xăng-đan đế bằng",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 639,
+    "cap1": "Giày Dép Nữ",
+    "cap2": "Xăng-đan và dép",
+    "cap3": "Dép kẹp/ dép xỏ ngón",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 640,
+    "cap1": "Giày Dép Nữ",
+    "cap2": "Xăng-đan và dép",
+    "cap3": "Dép mát-xa",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 641,
+    "cap1": "Giày Dép Nữ",
+    "cap2": "Xăng-đan và dép",
+    "cap3": "Dép đi trong nhà",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 642,
+    "cap1": "Giày Dép Nữ",
+    "cap2": "Xăng-đan và dép",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 643,
+    "cap1": "Giày Dép Nữ",
+    "cap2": "Giày đế bằng",
+    "cap3": "Giày bale",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 644,
+    "cap1": "Giày Dép Nữ",
+    "cap2": "Giày đế bằng",
+    "cap3": "Giày lười",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 645,
+    "cap1": "Giày Dép Nữ",
+    "cap2": "Giày đế bằng",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 646,
+    "cap1": "Giày Dép Nữ",
+    "cap2": "Giày đế bằng",
+    "cap3": "Giày Oxford & Giày buộc dây",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 647,
+    "cap1": "Giày Dép Nữ",
+    "cap2": "Giày đế bằng",
+    "cap3": "Giày sục & Giày búp bê",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 648,
+    "cap1": "Giày Dép Nữ",
+    "cap2": "Giày cao gót",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 649,
+    "cap1": "Giày Dép Nữ",
+    "cap2": "Khác",
+    "cap3": null,
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 650,
+    "cap1": "Giày Dép Nữ",
+    "cap2": "Phụ kiện & chăm sóc giày",
+    "cap3": "Miếng lót giày",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 651,
+    "cap1": "Giày Dép Nữ",
+    "cap2": "Phụ kiện & chăm sóc giày",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 652,
+    "cap1": "Giày Dép Nữ",
+    "cap2": "Phụ kiện & chăm sóc giày",
+    "cap3": "Đồ chăm sóc và làm sạch giày",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 653,
+    "cap1": "Giày Dép Nữ",
+    "cap2": "Phụ kiện & chăm sóc giày",
+    "cap3": "Đồ khử mùi giày",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 654,
+    "cap1": "Giày Dép Nữ",
+    "cap2": "Phụ kiện & chăm sóc giày",
+    "cap3": "Cây đón gót & Giữ form giày",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 655,
+    "cap1": "Giày Dép Nữ",
+    "cap2": "Phụ kiện & chăm sóc giày",
+    "cap3": "Dây giày",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 656,
+    "cap1": "Giày Dép Nữ",
+    "cap2": "Giày thể thao/ sneaker",
+    "cap3": null,
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 657,
+    "cap1": "Giày Dép Nữ",
+    "cap2": "Giày đế xuồng",
+    "cap3": null,
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 658,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng du lịch cho bé",
+    "cap3": "Túi đựng bỉm sữa",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 659,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng ăn dặm cho bé",
+    "cap3": "Yếm",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 660,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng ăn dặm cho bé",
+    "cap3": "Bình sữa",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 661,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng ăn dặm cho bé",
+    "cap3": "Đồ dùng cho con bú",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 662,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng ăn dặm cho bé",
+    "cap3": "Máy xay cắt thực phẩm",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 663,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng ăn dặm cho bé",
+    "cap3": "Ghế ăn dặm",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 664,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng ăn dặm cho bé",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 665,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng ăn dặm cho bé",
+    "cap3": "Ti giả",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 666,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng ăn dặm cho bé",
+    "cap3": "Đồ dùng cho bé",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 667,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Bộ & Gói quà tặng",
+    "cap3": null,
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 668,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Phụ kiện cho mẹ",
+    "cap3": "Gối bầu",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 669,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Phụ kiện cho mẹ",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 670,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Phụ kiện cho mẹ",
+    "cap3": "Đai hỗ trợ bụng",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 671,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Chăm sóc sức khỏe mẹ",
+    "cap3": "Vitamin & Thực phẩm bổ sung cho mẹ",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 672,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Chăm sóc sức khỏe mẹ",
+    "cap3": "Kem dưỡng ẩm cho mẹ",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 673,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng phòng ngủ cho bé",
+    "cap3": "Nôi & Cũi & Giường cho bé",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 674,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng phòng ngủ cho bé",
+    "cap3": "Nệm và chăn ga",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 675,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng phòng ngủ cho bé",
+    "cap3": "Kệ & Tủ",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 676,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ chơi",
+    "cap3": "Đồ chơi cho trẻ sơ sinh & trẻ nhỏ",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 677,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Tắm & chăm sóc cơ thể",
+    "cap3": "Kem & sữa dưỡng thể",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 678,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Tắm & chăm sóc cơ thể",
+    "cap3": "Khử mùi cơ thể",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 679,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Tắm & chăm sóc cơ thể",
+    "cap3": "Mặt nạ ủ cơ thể",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 680,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Tắm & chăm sóc cơ thể",
+    "cap3": "Dầu dưỡng da",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 681,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Tắm & chăm sóc cơ thể",
+    "cap3": "Tẩy tế bào chết cơ thể",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 682,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Tắm & chăm sóc cơ thể",
+    "cap3": "Xà phòng & sữa tắm",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 683,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Tắm & chăm sóc cơ thể",
+    "cap3": "Chăm sóc ngực",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 684,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Tắm & chăm sóc cơ thể",
+    "cap3": "Kem tẩy lông & wax lông",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 685,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Tắm & chăm sóc cơ thể",
+    "cap3": "Dầu massage",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 686,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Tắm & chăm sóc cơ thể",
+    "cap3": "Khác",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 687,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Tắm & chăm sóc cơ thể",
+    "cap3": "Chống nắng",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 688,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Bộ sản phẩm làm đẹp",
+    "cap3": null,
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 689,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Dụng cụ làm đẹp",
+    "cap3": "Dụng cụ làm thon gọn cơ thể",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 690,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Dụng cụ làm đẹp",
+    "cap3": "Dụng cụ chăm sóc da mặt",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 691,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Dụng cụ làm đẹp",
+    "cap3": "Dụng cụ tẩy lông",
+    "phiCoDinh": 0.115
+  },
+  {
+    "stt": 692,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Dụng cụ làm đẹp",
+    "cap3": "Dụng cụ chăm sóc tóc",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 693,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Dụng cụ làm đẹp",
+    "cap3": "Dụng cụ trang điểm",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 694,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Dụng cụ làm đẹp",
+    "cap3": "Khác",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 695,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc tóc",
+    "cap3": "Dầu xả",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 696,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc tóc",
+    "cap3": "Thuốc nhuộm tóc",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 697,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc tóc",
+    "cap3": "Sản phẩm tạo kiểu tóc",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 698,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc tóc",
+    "cap3": "Sản phẩm dưỡng tóc",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 699,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc tóc",
+    "cap3": "Khác",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 700,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc tóc",
+    "cap3": "Dầu gội",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 701,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc tay, chân & móng",
+    "cap3": "Chăm sóc chân",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 702,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc tay, chân & móng",
+    "cap3": "Chăm sóc tay",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 703,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc tay, chân & móng",
+    "cap3": "Chăm sóc móng",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 704,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc tay, chân & móng",
+    "cap3": "Khác",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 705,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Trang điểm",
+    "cap3": "Trang điểm mắt",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 706,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Trang điểm",
+    "cap3": "Trang điểm mặt",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 707,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Trang điểm",
+    "cap3": "Trang điểm môi",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 708,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Trang điểm",
+    "cap3": "Tẩy trang",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 709,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Trang điểm",
+    "cap3": "Khác",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 710,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc nam giới",
+    "cap3": "Sữa tắm & chăm sóc cơ thể",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 711,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc nam giới",
+    "cap3": "Chăm sóc tóc",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 712,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc nam giới",
+    "cap3": "Khác",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 713,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc nam giới",
+    "cap3": "Sản phẩm cạo râu & hớt tóc",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 714,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc nam giới",
+    "cap3": "Chăm sóc da",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 715,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Khác",
+    "cap3": null,
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 716,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Nước hoa",
+    "cap3": null,
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 717,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc da mặt",
+    "cap3": "Sản phẩm trị mụn",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 718,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc da mặt",
+    "cap3": "Kem dưỡng sau chống nắng",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 719,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc da mặt",
+    "cap3": "Giấy thấm dầu",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 720,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc da mặt",
+    "cap3": "Sản phẩm dưỡng mắt",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 721,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc da mặt",
+    "cap3": "Mặt nạ",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 722,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc da mặt",
+    "cap3": "Tẩy tế bào chết",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 723,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc da mặt",
+    "cap3": "Kem chống nắng cho mặt",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 724,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc da mặt",
+    "cap3": "Sữa rửa mặt",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 725,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc da mặt",
+    "cap3": "Xịt khoáng",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 726,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc da mặt",
+    "cap3": "Kem dưỡng ẩm",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 727,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc da mặt",
+    "cap3": "Dầu dưỡng ẩm",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 728,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc da mặt",
+    "cap3": "Tinh chất dưỡng",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 729,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc da mặt",
+    "cap3": "Sản phẩm dưỡng môi",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 730,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc da mặt",
+    "cap3": "Khác",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 731,
+    "cap1": "Sắc Đẹp",
+    "cap2": "Chăm sóc da mặt",
+    "cap3": "Nước cân bằng da",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 732,
+    "cap1": "Sức Khỏe",
+    "cap2": "Thực phẩm chức năng",
+    "cap3": "Hỗ trợ làm đẹp",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 733,
+    "cap1": "Sức Khỏe",
+    "cap2": "Thực phẩm chức năng",
+    "cap3": "Hỗ trợ tăng cơ",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 734,
+    "cap1": "Sức Khỏe",
+    "cap2": "Thực phẩm chức năng",
+    "cap3": "Khác",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 735,
+    "cap1": "Sức Khỏe",
+    "cap2": "Thực phẩm chức năng",
+    "cap3": "Hỗ trợ kiểm soát cân nặng",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 736,
+    "cap1": "Sức Khỏe",
+    "cap2": "Thực phẩm chức năng",
+    "cap3": "Hỗ trợ sức khỏe",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 737,
+    "cap1": "Sức Khỏe",
+    "cap2": "Khác",
+    "cap3": null,
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 738,
+    "cap1": "Sức Khỏe",
+    "cap2": "Chăm sóc cá nhân",
+    "cap3": "Chống muỗi & xua đuổi côn trùng",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 739,
+    "cap1": "Sức Khỏe",
+    "cap2": "Chăm sóc cá nhân",
+    "cap3": "Tã người lớn",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 740,
+    "cap1": "Sức Khỏe",
+    "cap2": "Chăm sóc cá nhân",
+    "cap3": "Chăm sóc tai",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 741,
+    "cap1": "Sức Khỏe",
+    "cap2": "Chăm sóc cá nhân",
+    "cap3": "Chăm sóc mắt",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 742,
+    "cap1": "Sức Khỏe",
+    "cap2": "Chăm sóc cá nhân",
+    "cap3": "Chăm sóc phụ nữ",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 743,
+    "cap1": "Sức Khỏe",
+    "cap2": "Chăm sóc cá nhân",
+    "cap3": "Dung dịch sát khuẩn tay",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 744,
+    "cap1": "Sức Khỏe",
+    "cap2": "Chăm sóc cá nhân",
+    "cap3": "Dụng cụ massage và trị liệu",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 745,
+    "cap1": "Sức Khỏe",
+    "cap2": "Chăm sóc cá nhân",
+    "cap3": "Vệ sinh răng miệng",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 746,
+    "cap1": "Sức Khỏe",
+    "cap2": "Chăm sóc cá nhân",
+    "cap3": "Khác",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 747,
+    "cap1": "Sức Khỏe",
+    "cap2": "Hỗ trợ tình dục",
+    "cap3": "Bao cao su",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 748,
+    "cap1": "Sức Khỏe",
+    "cap2": "Hỗ trợ tình dục",
+    "cap3": "Bôi trơn",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 749,
+    "cap1": "Sức Khỏe",
+    "cap2": "Hỗ trợ tình dục",
+    "cap3": "Khác",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 750,
+    "cap1": "Sức Khỏe",
+    "cap2": "Hỗ trợ tình dục",
+    "cap3": "Tăng cường sinh lý",
+    "phiCoDinh": 0.158
+  },
+  {
+    "stt": 751,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ uống có cồn",
+    "cap3": "Bia và trái cây lên men",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 752,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ uống có cồn",
+    "cap3": "Rượu mạnh",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 753,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ uống có cồn",
+    "cap3": "Khác",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 754,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ uống có cồn",
+    "cap3": "Rượu sake, soju & umeshu",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 755,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ uống có cồn",
+    "cap3": "Rượu vang & Sâm panh",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 756,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ làm bánh",
+    "cap3": "Đồ trang trí",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 757,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ làm bánh",
+    "cap3": "Hương liệu",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 758,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ làm bánh",
+    "cap3": "Bột nở và muối nở",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 759,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ làm bánh",
+    "cap3": "Bột pha sẵn",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 760,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ làm bánh",
+    "cap3": "Bột mì",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 761,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ làm bánh",
+    "cap3": "Chất tạo màu",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 762,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ làm bánh",
+    "cap3": "Khác",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 763,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Bộ quà tặng",
+    "cap3": null,
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 764,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Khác",
+    "cap3": null,
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 765,
+    "cap1": "Sức Khỏe",
+    "cap2": "Vật tư y tế",
+    "cap3": "Dụng cụ sơ cứu",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 766,
+    "cap1": "Sức Khỏe",
+    "cap2": "Vật tư y tế",
+    "cap3": "Kiểm tra và theo dõi sức khỏe",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 767,
+    "cap1": "Sức Khỏe",
+    "cap2": "Vật tư y tế",
+    "cap3": "Hỗ trợ chấn thương và khuyết tật",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 768,
+    "cap1": "Sức Khỏe",
+    "cap2": "Vật tư y tế",
+    "cap3": "Dụng cụ thí nghiệm",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 769,
+    "cap1": "Sức Khỏe",
+    "cap2": "Vật tư y tế",
+    "cap3": "Bao tay và khẩu trang y tế",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 770,
+    "cap1": "Sức Khỏe",
+    "cap2": "Vật tư y tế",
+    "cap3": "Chăm sóc mũi",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 771,
+    "cap1": "Sức Khỏe",
+    "cap2": "Vật tư y tế",
+    "cap3": "Khác",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 772,
+    "cap1": "Sức Khỏe",
+    "cap2": "Vật tư y tế",
+    "cap3": "Thuốc không kê đơn",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 773,
+    "cap1": "Sức Khỏe",
+    "cap2": "Vật tư y tế",
+    "cap3": "Sản phẩm giảm đau dùng ngoài da",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 774,
+    "cap1": "Sức Khỏe",
+    "cap2": "Vật tư y tế",
+    "cap3": "Prescription Medicine",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 775,
+    "cap1": "Sức Khỏe",
+    "cap2": "Vật tư y tế",
+    "cap3": "Cân sức khỏe và phân tích cơ thể",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 776,
+    "cap1": "Sức Khỏe",
+    "cap2": "Vật tư y tế",
+    "cap3": "Ống nghe y tế",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 777,
+    "cap1": "Sức Khỏe",
+    "cap2": "Vật tư y tế",
+    "cap3": "Thuốc gia truyền",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 778,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Chăm sóc sức khỏe bé",
+    "cap3": "Chăm sóc răng miệng cho bé",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 779,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Chăm sóc sức khỏe bé",
+    "cap3": "Chăm sóc da cho bé",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 780,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Chăm sóc sức khỏe bé",
+    "cap3": "Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 781,
+    "cap1": "Mẹ & Bé",
+    "cap2": "An toàn cho bé",
+    "cap3": "Thanh chắn cửa & Cầu thang",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 782,
+    "cap1": "Mẹ & Bé",
+    "cap2": "An toàn cho bé",
+    "cap3": "Bộ đệm cũi, Quây cũi & Thanh chắn giường",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 783,
+    "cap1": "Mẹ & Bé",
+    "cap2": "An toàn cho bé",
+    "cap3": "Bọc góc & Cạnh",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 784,
+    "cap1": "Mẹ & Bé",
+    "cap2": "An toàn cho bé",
+    "cap3": "Thiết bị giám sát trẻ",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 785,
+    "cap1": "Mẹ & Bé",
+    "cap2": "An toàn cho bé",
+    "cap3": "Màn chống muỗi",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 786,
+    "cap1": "Mẹ & Bé",
+    "cap2": "An toàn cho bé",
+    "cap3": "Khác",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 787,
+    "cap1": "Mẹ & Bé",
+    "cap2": "An toàn cho bé",
+    "cap3": "Khóa & Dây đai an toàn",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 788,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng du lịch cho bé",
+    "cap3": "Địu em bé",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 789,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng du lịch cho bé",
+    "cap3": "Ghế ngồi ô tô & xe máy",
+    "phiCoDinh": 0.115
+  },
+  {
+    "stt": 790,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng du lịch cho bé",
+    "cap3": "Phụ kiện ghế ngồi ô tô & xe máy",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 791,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng du lịch cho bé",
+    "cap3": "Dây & Đai dắt trẻ",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 792,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng du lịch cho bé",
+    "cap3": "Khác",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 793,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng du lịch cho bé",
+    "cap3": "Phụ kiện xe đẩy",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 794,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng du lịch cho bé",
+    "cap3": "Xe đẩy",
+    "phiCoDinh": 0.115
+  },
+  {
+    "stt": 795,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng phòng tắm & Chăm sóc cơ thể bé",
+    "cap3": "Nước hoa cho bé",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 796,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng phòng tắm & Chăm sóc cơ thể bé",
+    "cap3": "Bộ chăm sóc trẻ sơ sinh",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 797,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng phòng tắm & Chăm sóc cơ thể bé",
+    "cap3": "Giặt xả quần áo trẻ em",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 798,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng phòng tắm & Chăm sóc cơ thể bé",
+    "cap3": "Áo choàng tắm, Khăn tắm & Khăn mặt",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 799,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng phòng tắm & Chăm sóc cơ thể bé",
+    "cap3": "Dụng cụ tắm & Phụ kiện",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 800,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng phòng tắm & Chăm sóc cơ thể bé",
+    "cap3": "Chậu tắm & Ghế tắm",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 801,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng phòng tắm & Chăm sóc cơ thể bé",
+    "cap3": "Sản phẩm tắm & gội cho bé",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 802,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng phòng tắm & Chăm sóc cơ thể bé",
+    "cap3": "Nón tắm",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 803,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Tã & bô em bé",
+    "cap3": "Bệ thu nhỏ bồn cầu & Bô vệ sinh",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 804,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Chăm sóc sức khỏe mẹ",
+    "cap3": "Sữa bầu",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 805,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Chăm sóc sức khỏe mẹ",
+    "cap3": "Khác",
+    "phiCoDinh": 0.145
+  },
+  {
+    "stt": 806,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng phòng ngủ cho bé",
+    "cap3": "Ghế rung, Ghế nhún & Xích đu tập đi",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 807,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng phòng ngủ cho bé",
+    "cap3": "Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 808,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng phòng ngủ cho bé",
+    "cap3": "Xe tập đi",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 809,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Khác",
+    "cap3": null,
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 810,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ chơi",
+    "cap3": "Đồ chơi lắp ráp",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 811,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ chơi",
+    "cap3": "Búp bê & Thú nhồi bông",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 812,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ chơi",
+    "cap3": "Đồ chơi giáo dục",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 813,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ chơi",
+    "cap3": "Khác",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 814,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ chơi",
+    "cap3": "Đồ chơi nhập vai",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 815,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ chơi",
+    "cap3": "Đồ chơi Robot",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 816,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ chơi",
+    "cap3": "Slime & Đồ chơi nhựa dẻo",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 817,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ chơi",
+    "cap3": "Đồ chơi vận động & Ngoài trời",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 818,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ chơi",
+    "cap3": "Xe đồ chơi",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 819,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Vệ sinh cho thú cưng",
+    "cap3": "Khay & Bồn vệ sinh cho mèo",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 820,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Vệ sinh cho thú cưng",
+    "cap3": "Tã cho thú cưng",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 821,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Vệ sinh cho thú cưng",
+    "cap3": "Khay huấn luyện vệ sinh cho chó",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 822,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Vệ sinh cho thú cưng",
+    "cap3": "Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 823,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Vệ sinh cho thú cưng",
+    "cap3": "Túi & Xẻng dọn vệ sinh",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 824,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Vệ sinh cho thú cưng",
+    "cap3": "Lót chuồng cho thú nhỏ",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 825,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Khác",
+    "cap3": null,
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 826,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Phụ kiện cho thú cưng",
+    "cap3": "Phụ kiện thủy sinh",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 827,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Phụ kiện cho thú cưng",
+    "cap3": "Bát & dụng cụ ăn",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 828,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Phụ kiện cho thú cưng",
+    "cap3": "Vòng cổ, dây dắt & rọ mõm",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 829,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Phụ kiện cho thú cưng",
+    "cap3": "Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 830,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Phụ kiện cho thú cưng",
+    "cap3": "Nội thất cho thú cưng",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 831,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Phụ kiện cho thú cưng",
+    "cap3": "Đồ chơi",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 832,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Phụ kiện cho thú cưng",
+    "cap3": "Thiết bị du lịch",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 833,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Quần áo & phụ kiện",
+    "cap3": "Giày, tất & bảo vệ móng",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 834,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Quần áo & phụ kiện",
+    "cap3": "Kính mắt",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 835,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Quần áo & phụ kiện",
+    "cap3": "Phụ kiện lông",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 836,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Quần áo & phụ kiện",
+    "cap3": "Mũ nón thú cưng",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 837,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Quần áo & phụ kiện",
+    "cap3": "Phụ kiện đeo cổ",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 838,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Quần áo & phụ kiện",
+    "cap3": "Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 839,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Quần áo & phụ kiện",
+    "cap3": "Quần áo thú cưng",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 840,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Quần áo & phụ kiện",
+    "cap3": "Áo mưa chó mèo",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 841,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Thức ăn cho thú cưng",
+    "cap3": "Thức ăn cho cá",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 842,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Thức ăn cho thú cưng",
+    "cap3": "Thức ăn cho chim",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 843,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Thức ăn cho thú cưng",
+    "cap3": "Thức ăn cho mèo",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 844,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Thức ăn cho thú cưng",
+    "cap3": "Snack cho mèo",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 845,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Thức ăn cho thú cưng",
+    "cap3": "Thức ăn cho chó",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 846,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Thức ăn cho thú cưng",
+    "cap3": "Snack cho chó",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 847,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Thức ăn cho thú cưng",
+    "cap3": "Khác",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 848,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Thức ăn cho thú cưng",
+    "cap3": "Thức ăn cho bò sát",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 849,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Thức ăn cho thú cưng",
+    "cap3": "Thức ăn cho thú nhỏ",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 850,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Thức ăn cho thú cưng",
+    "cap3": "Snack cho thú nhỏ",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 851,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Làm đẹp cho thú cưng",
+    "cap3": "Chăm sóc móng",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 852,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Làm đẹp cho thú cưng",
+    "cap3": "Chăm sóc lông",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 853,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Làm đẹp cho thú cưng",
+    "cap3": "Chăm sóc răng miệng",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 854,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Làm đẹp cho thú cưng",
+    "cap3": "Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 855,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Chăm sóc sức khỏe",
+    "cap3": "Tẩy giun & diệt bọ chét",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 856,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Chăm sóc sức khỏe",
+    "cap3": "Dược phẩm",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 857,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Chăm sóc sức khỏe",
+    "cap3": "Khác",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 858,
+    "cap1": "Chăm Sóc Thú Cưng",
+    "cap2": "Chăm sóc sức khỏe",
+    "cap3": "Vitamin & chất bổ sung dinh dưỡng",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 859,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Các loại bánh",
+    "cap3": "Bánh mì",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 860,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Các loại bánh",
+    "cap3": "Bánh kem",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 861,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Các loại bánh",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 862,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Các loại bánh",
+    "cap3": "Bánh ngọt/ pastry",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 863,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ uống",
+    "cap3": "Nước có ga",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 864,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ uống",
+    "cap3": "Thức uống Sô cô la",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 865,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ uống",
+    "cap3": "Cà phê",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 866,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ uống",
+    "cap3": "Siro pha",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 867,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ uống",
+    "cap3": "Đồ tráng miệng",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 868,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ uống",
+    "cap3": "Topping",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 869,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ uống",
+    "cap3": "Nước tăng lực",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 870,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ uống",
+    "cap3": "Nước trái cây lên men",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 871,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ uống",
+    "cap3": "Sữa thực vật",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 872,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ uống",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 873,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ uống",
+    "cap3": "Bột pha",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 874,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ uống",
+    "cap3": "Trà & trà túi lọc",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 875,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ uống",
+    "cap3": "Trà thảo mộc",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 876,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ uống",
+    "cap3": "Nước tinh khiết",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 877,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Ngũ cốc & mứt",
+    "cap3": "Thanh dinh dưỡng",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 878,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Ngũ cốc & mứt",
+    "cap3": "Ngũ cốc",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 879,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Ngũ cốc & mứt",
+    "cap3": "Mật ong và siro",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 880,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Ngũ cốc & mứt",
+    "cap3": "Mứt",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 881,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Ngũ cốc & mứt",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 882,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ chế biến sẵn",
+    "cap3": "Đồ ăn chế biến sẵn",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 883,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ chế biến sẵn",
+    "cap3": "Lẩu ăn liền",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 884,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ chế biến sẵn",
+    "cap3": "Mì ăn liền",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 885,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ chế biến sẵn",
+    "cap3": "Cơm và cháo ăn liền",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 886,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ chế biến sẵn",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 887,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Nguyên liệu nấu ăn",
+    "cap3": "Gói/ bột gia vị",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 888,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Nguyên liệu nấu ăn",
+    "cap3": "Phụ gia thực phẩm",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 889,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Nguyên liệu nấu ăn",
+    "cap3": "Bột phủ",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 890,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Nguyên liệu nấu ăn",
+    "cap3": "Dầu ăn",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 891,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Nguyên liệu nấu ăn",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 892,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Nguyên liệu nấu ăn",
+    "cap3": "Gia vị & Hương liệu",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 893,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Nguyên liệu nấu ăn",
+    "cap3": "Sốt & súp ăn liền",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 894,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Nguyên liệu nấu ăn",
+    "cap3": "Đường",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 895,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Nguyên liệu nấu ăn",
+    "cap3": "Chất tạo ngọt",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 896,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Sữa - trứng",
+    "cap3": "Đậu phụ",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 897,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Sữa - trứng",
+    "cap3": "Bơ động vật & thực vật",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 898,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Sữa - trứng",
+    "cap3": "Phô mai & bột phô mai",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 899,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Sữa - trứng",
+    "cap3": "Bột kem béo",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 900,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Sữa - trứng",
+    "cap3": "Trứng",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 901,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Sữa - trứng",
+    "cap3": "Kem",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 902,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Sữa - trứng",
+    "cap3": "Sữa",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 903,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Sữa - trứng",
+    "cap3": "Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 904,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Sữa - trứng",
+    "cap3": "Sữa chua",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 905,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Nhu yếu phẩm",
+    "cap3": "Thực phẩm đóng hộp",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 906,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Nhu yếu phẩm",
+    "cap3": "Thực phẩm khô",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 907,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Nhu yếu phẩm",
+    "cap3": "Mì",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 908,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Nhu yếu phẩm",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 909,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Nhu yếu phẩm",
+    "cap3": "Mì Ý",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 910,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Nhu yếu phẩm",
+    "cap3": "Rau củ ngâm",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 911,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Nhu yếu phẩm",
+    "cap3": "Gạo",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 912,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Thực phẩm tươi sống & đông lạnh",
+    "cap3": "Thực phẩm đông lạnh chế biến sẵn",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 913,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Thực phẩm tươi sống & đông lạnh",
+    "cap3": "Trái cây",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 914,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Thực phẩm tươi sống & đông lạnh",
+    "cap3": "Thịt",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 915,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Thực phẩm tươi sống & đông lạnh",
+    "cap3": "Nấm",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 916,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Thực phẩm tươi sống & đông lạnh",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 917,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Thực phẩm tươi sống & đông lạnh",
+    "cap3": "Thịt và hải sản chế biến sẵn",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 918,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Thực phẩm tươi sống & đông lạnh",
+    "cap3": "Hải sản",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 919,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Thực phẩm tươi sống & đông lạnh",
+    "cap3": "Rau củ",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 920,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Thực phẩm tươi sống & đông lạnh",
+    "cap3": "Thịt chay",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 921,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ ăn vặt",
+    "cap3": "Bánh quy",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 922,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ ăn vặt",
+    "cap3": "Khoai tây lát",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 923,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ ăn vặt",
+    "cap3": "Sô cô la",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 924,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ ăn vặt",
+    "cap3": "Thức ăn khô",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 925,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ ăn vặt",
+    "cap3": "Các loại đậu sấy khô",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 926,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ ăn vặt",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 927,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ ăn vặt",
+    "cap3": "Bỏng ngô",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 928,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ ăn vặt",
+    "cap3": "Pudding, thạch & kẹo dẻo",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 929,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ ăn vặt",
+    "cap3": "Các loại rong biển ăn liền",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 930,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ ăn vặt",
+    "cap3": "Các loại hạt sấy khô",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 931,
+    "cap1": "Thực phẩm và đồ uống",
+    "cap2": "Đồ ăn vặt",
+    "cap3": "Kẹo",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 932,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Chăm sóc sức khỏe bé",
+    "cap3": "Vitamin & Thực phẩm bổ sung",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 933,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Chăm sóc sức khỏe bé",
+    "cap3": "Chăm sóc mũi cho bé",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 934,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Chăm sóc sức khỏe bé",
+    "cap3": "Chống nắng cho bé",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 935,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng phòng tắm & Chăm sóc cơ thể bé",
+    "cap3": "Khác",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 936,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Đồ dùng phòng tắm & Chăm sóc cơ thể bé",
+    "cap3": "Khăn lau",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 937,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Tã & bô em bé",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 938,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Sữa công thức & Thực phẩm cho bé",
+    "cap3": "Cháo, Thực phẩm xay nhuyễn & Ngũ cốc",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 939,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Sữa công thức & Thực phẩm cho bé",
+    "cap3": "Đồ ăn nhẹ cho bé",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 940,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Sữa công thức & Thực phẩm cho bé",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 941,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Sữa công thức & Thực phẩm cho bé",
+    "cap3": "Sữa pha sẵn",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 942,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Tã & bô em bé",
+    "cap3": "Bộ lót thay tã",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 943,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Tã & bô em bé",
+    "cap3": "Tã vải & Phụ kiện",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 944,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Tã & bô em bé",
+    "cap3": "Tã dùng một lần",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 945,
+    "cap1": "Mẹ & Bé",
+    "cap2": "Sữa công thức & Thực phẩm cho bé",
+    "cap3": "Sữa công thức",
+    "phiCoDinh": 0.105
+  },
+  {
+    "stt": 946,
+    "cap1": "Ô tô",
+    "cap2": "Phụ kiện ngoại thất ô tô",
+    "cap3": "Ăng-ten thu phát sóng",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 947,
+    "cap1": "Ô tô",
+    "cap2": "Phụ kiện ngoại thất ô tô",
+    "cap3": "Bạt phủ",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 948,
+    "cap1": "Ô tô",
+    "cap2": "Phụ kiện ngoại thất ô tô",
+    "cap3": "Nẹp viền",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 949,
+    "cap1": "Ô tô",
+    "cap2": "Phụ kiện ngoại thất ô tô",
+    "cap3": "Rãnh thoát nước mưa",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 950,
+    "cap1": "Ô tô",
+    "cap2": "Phụ kiện ngoại thất ô tô",
+    "cap3": "Còi & phụ kiện",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 951,
+    "cap1": "Ô tô",
+    "cap2": "Phụ kiện ngoại thất ô tô",
+    "cap3": "Phụ kiện biển số",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 952,
+    "cap1": "Ô tô",
+    "cap2": "Phụ kiện ngoại thất ô tô",
+    "cap3": "Gương & Phụ kiện",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 953,
+    "cap1": "Ô tô",
+    "cap2": "Phụ kiện ngoại thất ô tô",
+    "cap3": "Tấm chắn bùn",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 954,
+    "cap1": "Ô tô",
+    "cap2": "Phụ kiện ngoại thất ô tô",
+    "cap3": "Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 955,
+    "cap1": "Ô tô",
+    "cap2": "Phụ kiện ngoại thất ô tô",
+    "cap3": "Nẹp cửa chống trầy",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 956,
+    "cap1": "Ô tô",
+    "cap2": "Phụ kiện ngoại thất ô tô",
+    "cap3": "Hình dán, logo, huy hiệu",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 957,
+    "cap1": "Ô tô",
+    "cap2": "Phụ kiện nội thất ô tô",
+    "cap3": "Hệ thống loa",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 958,
+    "cap1": "Ô tô",
+    "cap2": "Phụ kiện nội thất ô tô",
+    "cap3": "Camera hành trình & Camera lùi",
+    "phiCoDinh": 0.115
+  },
+  {
+    "stt": 959,
+    "cap1": "Ô tô",
+    "cap2": "Phụ kiện nội thất ô tô",
+    "cap3": "Nệm giường ô tô",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 960,
+    "cap1": "Ô tô",
+    "cap2": "Phụ kiện nội thất ô tô",
+    "cap3": "Thảm & Đệm lót",
+    "phiCoDinh": 0.115
+  },
+  {
+    "stt": 961,
+    "cap1": "Ô tô",
+    "cap2": "Phụ kiện nội thất ô tô",
+    "cap3": "HUD, Đồng hồ tốc độ, Đồng hồ số",
+    "phiCoDinh": 0.115
+  },
+  {
+    "stt": 962,
+    "cap1": "Ô tô",
+    "cap2": "Phụ kiện nội thất ô tô",
+    "cap3": "Khóa và thiết bị chống trộm",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 963,
+    "cap1": "Ô tô",
+    "cap2": "Phụ kiện nội thất ô tô",
+    "cap3": "Thiết bị định vị và Hệ thống hình ảnh/âm thanh",
+    "phiCoDinh": 0.115
+  },
+  {
+    "stt": 964,
+    "cap1": "Ô tô",
+    "cap2": "Phụ kiện nội thất ô tô",
+    "cap3": "Dụng cụ chứa",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 965,
+    "cap1": "Ô tô",
+    "cap2": "Phụ kiện nội thất ô tô",
+    "cap3": "Khác",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 966,
+    "cap1": "Ô tô",
+    "cap2": "Phụ kiện nội thất ô tô",
+    "cap3": "Chân ga và Cần số",
+    "phiCoDinh": 0.115
+  },
+  {
+    "stt": 967,
+    "cap1": "Ô tô",
+    "cap2": "Phụ kiện nội thất ô tô",
+    "cap3": "Nước hoa, Nước hoa khử mùi, Thiết bị lọc không khí",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 968,
+    "cap1": "Ô tô",
+    "cap2": "Phụ kiện nội thất ô tô",
+    "cap3": "Giá đỡ điện thoại",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 969,
+    "cap1": "Ô tô",
+    "cap2": "Phụ kiện nội thất ô tô",
+    "cap3": "Gối tựa đầu & lưng",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 970,
+    "cap1": "Ô tô",
+    "cap2": "Phụ kiện nội thất ô tô",
+    "cap3": "Ghế & Áo ghế",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 971,
+    "cap1": "Ô tô",
+    "cap2": "Phụ kiện nội thất ô tô",
+    "cap3": "Vô lăng & Bọc vô lăng",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 972,
+    "cap1": "Ô tô",
+    "cap2": "Phụ kiện nội thất ô tô",
+    "cap3": "Tấm che nắng và Thảm Taplo",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 973,
+    "cap1": "Ô tô",
+    "cap2": "Phụ kiện nội thất ô tô",
+    "cap3": "Cốc sạc USB, Thiết bị thu phát FM & Bluetooth",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 974,
+    "cap1": "Ô tô",
+    "cap2": "Phụ tùng ô tô",
+    "cap3": "Vòng bi & con dấu",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 975,
+    "cap1": "Ô tô",
+    "cap2": "Phụ tùng ô tô",
+    "cap3": "Dây chuyền động",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 976,
+    "cap1": "Ô tô",
+    "cap2": "Phụ tùng ô tô",
+    "cap3": "Hệ thống khung xe và giảm sóc",
+    "phiCoDinh": 0.085
+  },
+  {
+    "stt": 977,
+    "cap1": "Ô tô",
+    "cap2": "Phụ tùng ô tô",
+    "cap3": "Hệ thống phanh",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 978,
+    "cap1": "Ô tô",
+    "cap2": "Phụ tùng ô tô",
+    "cap3": "Hệ thống truyền động, hộp số & ly hợp",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 979,
+    "cap1": "Ô tô",
+    "cap2": "Phụ tùng ô tô",
+    "cap3": "Thiết bị điện tử",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 980,
+    "cap1": "Ô tô",
+    "cap2": "Phụ tùng ô tô",
+    "cap3": "Bộ phận động cơ",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 981,
+    "cap1": "Ô tô",
+    "cap2": "Phụ tùng ô tô",
+    "cap3": "Hệ thống khí xả",
+    "phiCoDinh": 0.085
+  },
+  {
+    "stt": 982,
+    "cap1": "Ô tô",
+    "cap2": "Phụ tùng ô tô",
+    "cap3": "Hệ thống xử lý nhiên liệu",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 983,
+    "cap1": "Ô tô",
+    "cap2": "Phụ tùng ô tô",
+    "cap3": "Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 984,
+    "cap1": "Ô tô",
+    "cap2": "Phụ tùng ô tô",
+    "cap3": "Bộ tản nhiệt, Làm mát động cơ & Kiểm soát nhiệt",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 985,
+    "cap1": "Ô tô",
+    "cap2": "Phụ tùng ô tô",
+    "cap3": "Giảm xóc, thanh chống và hệ thống treo",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 986,
+    "cap1": "Ô tô",
+    "cap2": "Phụ tùng ô tô",
+    "cap3": "Lốp & Phụ kiện",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 987,
+    "cap1": "Ô tô",
+    "cap2": "Phụ tùng ô tô",
+    "cap3": "Bánh xe, Vành & Phụ kiện",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 988,
+    "cap1": "Ô tô",
+    "cap2": "Phụ tùng ô tô",
+    "cap3": "Cần gạt nước & vòng đệm kính chắn gió",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 989,
+    "cap1": "Ô tô",
+    "cap2": "Chăm sóc ô tô",
+    "cap3": "Rửa kính & Chất chống bám nước",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 990,
+    "cap1": "Ô tô",
+    "cap2": "Chăm sóc ô tô",
+    "cap3": "Chăm sóc nội thất",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 991,
+    "cap1": "Ô tô",
+    "cap2": "Chăm sóc ô tô",
+    "cap3": "Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 992,
+    "cap1": "Ô tô",
+    "cap2": "Chăm sóc ô tô",
+    "cap3": "Đánh bóng, sơn phủ & chất làm kín",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 993,
+    "cap1": "Ô tô",
+    "cap2": "Chăm sóc ô tô",
+    "cap3": "Chăm sóc lốp & vành",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 994,
+    "cap1": "Ô tô",
+    "cap2": "Chăm sóc ô tô",
+    "cap3": "Dung dịch tẩy rửa",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 995,
+    "cap1": "Ô tô",
+    "cap2": "Móc chìa khóa và Bọc chìa ô tô",
+    "cap3": null,
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 996,
+    "cap1": "Ô tô",
+    "cap2": "Dầu nhớt và phụ gia ô tô",
+    "cap3": "Chất chống đông & chất làm mát",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 997,
+    "cap1": "Ô tô",
+    "cap2": "Dầu nhớt và phụ gia ô tô",
+    "cap3": "Dầu máy",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 998,
+    "cap1": "Ô tô",
+    "cap2": "Dầu nhớt và phụ gia ô tô",
+    "cap3": "Phụ gia",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 999,
+    "cap1": "Ô tô",
+    "cap2": "Dầu nhớt và phụ gia ô tô",
+    "cap3": "Mỡ & Chất bôi trơn",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1000,
+    "cap1": "Ô tô",
+    "cap2": "Dầu nhớt và phụ gia ô tô",
+    "cap3": "Dầu",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1001,
+    "cap1": "Ô tô",
+    "cap2": "Dầu nhớt và phụ gia ô tô",
+    "cap3": "Khác",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1002,
+    "cap1": "Ô tô",
+    "cap2": "Dụng cụ sửa chữa ô tô",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1003,
+    "cap1": "Ô tô",
+    "cap2": "Dụng cụ sửa chữa ô tô",
+    "cap3": "Dụng cụ Kiểm tra, chẩn đoán & sửa chữa",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1004,
+    "cap1": "Ô tô",
+    "cap2": "Dụng cụ sửa chữa ô tô",
+    "cap3": "Máy đo áp suất lốp",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1005,
+    "cap1": "Ô tô",
+    "cap2": "Dịch vụ cho xe",
+    "cap3": null,
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1006,
+    "cap1": "Ô tô",
+    "cap2": "Khác",
+    "cap3": null,
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1007,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Văn Học Hành Động, Tội Phạm & Kinh Dị",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1008,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Sách Người Lớn",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1009,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Sách Nông - Lâm - Ngư Nghiệp",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1010,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Sách Nghệ thuật, Thiết kế & Nhiếp ảnh",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1011,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Sách Nói",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1012,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Sách Vải",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1013,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Tiểu Sử - Hồi Ký",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1014,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Sách Kinh Tế - Kinh Doanh",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1015,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Sách Hướng Nghiệp & Phát Triển Bản Thân",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1016,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Sách Thiếu Nhi",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1017,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Văn Học Kinh Điển",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1018,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Truyện Tranh",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1019,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Sách Công Nghệ Thông Tin",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1020,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Sách Giáo Dục",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1021,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Văn Học Giả Tưởng",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1022,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Sách Sức Khỏe, Rèn Luyện & Ăn Kiêng",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1023,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Sách Lịch Sử - Văn Hóa",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1024,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Sách Sở Thích Cá Nhân",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1025,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Sách Chiêm Tinh",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1026,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Sách Học Ngoại Ngữ & Từ Điển",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1027,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Văn Học LGBTQ+",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1028,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Light Novels",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1029,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Sách Y Học",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1030,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Sách Âm Nhạc",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1031,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1032,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Sách Gia Đình",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1033,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Sách Chính Trị - Pháp Lý & Khoa Học",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1034,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Sách Tâm Lý Học",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1035,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Sách Dạy Nấu Ăn",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1036,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Sách Tôn giáo & Triết học",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1037,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Văn Học Lãng Mạn",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1038,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Khoa Học - Toán Học",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1039,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Sách Hình Dán & Tô Màu",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1040,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Sách",
+    "cap3": "Sách Du Lịch - Du Ký",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1041,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "E-Books",
+    "cap3": null,
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1042,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Tạp Chí & Báo Giấy",
+    "cap3": "Tạp Chí Kinh Tế",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1043,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Tạp Chí & Báo Giấy",
+    "cap3": "Tạp Chí Đời Sống",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1044,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Tạp Chí & Báo Giấy",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1045,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Tạp Chí & Báo Giấy",
+    "cap3": "Tạp Chí Tuổi Teen",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1046,
+    "cap1": "Sách & Tạp Chí",
+    "cap2": "Khác",
+    "cap3": null,
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1047,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Băng - Đĩa",
+    "cap3": null,
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1048,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Đồ Sưu Tầm",
+    "cap3": "Mô hình nhân vật",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1049,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Đồ Sưu Tầm",
+    "cap3": "Bộ sưu tập hoạt hình truyện tranh",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1050,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Đồ Sưu Tầm",
+    "cap3": "Tiền xu & tiền giấy sưu tầm",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1051,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Đồ Sưu Tầm",
+    "cap3": "Bộ sưu tập nhân vật nổi tiếng",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1052,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Đồ Sưu Tầm",
+    "cap3": "Mô hình mecha/gundam",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1053,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Đồ Sưu Tầm",
+    "cap3": "Khác",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1054,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Đồ Sưu Tầm",
+    "cap3": "Bộ sưu tập thể thao",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1055,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Đồ Sưu Tầm",
+    "cap3": "Tượng tĩnh",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1056,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Đồ Sưu Tầm",
+    "cap3": "Đá & khoáng vật",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1057,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Đồ Sưu Tầm",
+    "cap3": "Mô hình xe",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1058,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Nhạc Cụ & Phụ Kiện",
+    "cap3": "Đàn Piano & Organ",
+    "phiCoDinh": 0.094
+  },
+  {
+    "stt": 1059,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Nhạc Cụ & Phụ Kiện",
+    "cap3": "Phụ Kiện Âm Nhạc",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1060,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Nhạc Cụ & Phụ Kiện",
+    "cap3": "Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1061,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Nhạc Cụ & Phụ Kiện",
+    "cap3": "Nhạc Cụ Gõ",
+    "phiCoDinh": 0.094
+  },
+  {
+    "stt": 1062,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Nhạc Cụ & Phụ Kiện",
+    "cap3": "Nhạc Cụ Dây",
+    "phiCoDinh": 0.094
+  },
+  {
+    "stt": 1063,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Nhạc Cụ & Phụ Kiện",
+    "cap3": "Sáo, kèn",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1064,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Dụng Cụ May Vá",
+    "cap3": null,
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1065,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Khác",
+    "cap3": null,
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1066,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Album Ảnh",
+    "cap3": null,
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1067,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Quà Lưu Niệm",
+    "cap3": "Ống tiết kiệm",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1068,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Quà Lưu Niệm",
+    "cap3": "Nam Châm",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1069,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Quà Lưu Niệm",
+    "cap3": "Quạt Cầm Tay",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1070,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Quà Lưu Niệm",
+    "cap3": "Móc khóa",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1071,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Quà Lưu Niệm",
+    "cap3": "Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1072,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Đồ chơi - Giải trí",
+    "cap3": "Đồ chơi trứng",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1073,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Đồ chơi - Giải trí",
+    "cap3": "Đồ chơi thẻ bài & boardgame",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1074,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Đồ chơi - Giải trí",
+    "cap3": "Kendama",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1075,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Đồ chơi - Giải trí",
+    "cap3": "Đồ chơi ảo thuật",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1076,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Đồ chơi - Giải trí",
+    "cap3": "Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1077,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Đồ chơi - Giải trí",
+    "cap3": "Đồ chơi chọc ghẹo",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1078,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Đồ chơi - Giải trí",
+    "cap3": "Đồ chơi điều khiển từ xa",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1079,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Đồ chơi - Giải trí",
+    "cap3": "Đồ chơi rubik",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1080,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Đồ chơi - Giải trí",
+    "cap3": "Đồ chơi con xoay",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1081,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Đồ chơi - Giải trí",
+    "cap3": "Yo yo",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1082,
+    "cap1": "Sở thích & Sưu tầm",
+    "cap2": "Đĩa Than",
+    "cap3": null,
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1083,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Đồ dùng phòng tắm",
+    "cap3": "Bông tắm",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1084,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Đồ dùng phòng tắm",
+    "cap3": "Kệ để đồ phòng tắm",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1085,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Đồ dùng phòng tắm",
+    "cap3": "Bồn tắm",
+    "phiCoDinh": 0.115
+  },
+  {
+    "stt": 1086,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Đồ dùng phòng tắm",
+    "cap3": "Khác",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1087,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Đồ dùng phòng tắm",
+    "cap3": "Tay cầm an toàn",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1088,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Đồ dùng phòng tắm",
+    "cap3": "Mũ tắm",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1089,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Đồ dùng phòng tắm",
+    "cap3": "Rèm cửa nhà tắm",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1090,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Đồ dùng phòng tắm",
+    "cap3": "Ghế nhà tắm, ghế chống trượt",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1091,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Đồ dùng phòng tắm",
+    "cap3": "Vòi sen & vòi xịt vệ sinh",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1092,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Đồ dùng phòng tắm",
+    "cap3": "Kệ đựng xà phòng",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1093,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Đồ dùng phòng tắm",
+    "cap3": "Bồn cầu, ghế và nắp bồn cầu",
+    "phiCoDinh": 0.115
+  },
+  {
+    "stt": 1094,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Đồ dùng phòng tắm",
+    "cap3": "Kệ đựng bàn chải, kệ nhả kem đánh răng",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1095,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Đồ dùng phòng tắm",
+    "cap3": "Khăn mặt, khăn tắm, áo choàng tắm",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1096,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Chăn ga gối nệm",
+    "cap3": "Ga trải giường, vỏ gối",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1097,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Chăn ga gối nệm",
+    "cap3": "Chăn, mền",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1098,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Chăn ga gối nệm",
+    "cap3": "Gối ôm",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1099,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Chăn ga gối nệm",
+    "cap3": "Chiếu điều hòa",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1100,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Chăn ga gối nệm",
+    "cap3": "Tấm bảo vệ nệm, topper",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1101,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Chăn ga gối nệm",
+    "cap3": "Nệm",
+    "phiCoDinh": 0.085
+  },
+  {
+    "stt": 1102,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Chăn ga gối nệm",
+    "cap3": "Mùng/ Màn chống muỗi",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1103,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Chăn ga gối nệm",
+    "cap3": "Khác",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1104,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Chăn ga gối nệm",
+    "cap3": "Gối",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1105,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Trang trí nhà cửa",
+    "cap3": "Nến & đồ đựng nến",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1106,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Trang trí nhà cửa",
+    "cap3": "Thảm trải sàn",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1107,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Trang trí nhà cửa",
+    "cap3": "Đồng hồ",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1108,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Trang trí nhà cửa",
+    "cap3": "Rèm cửa, màn che",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1109,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Trang trí nhà cửa",
+    "cap3": "Thảm chùi chân",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1110,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Trang trí nhà cửa",
+    "cap3": "Hoa trang trí",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1111,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Trang trí nhà cửa",
+    "cap3": "Vỏ bọc nội thất",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1112,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Trang trí nhà cửa",
+    "cap3": "Gương",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1113,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Trang trí nhà cửa",
+    "cap3": "Khác",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1114,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Trang trí nhà cửa",
+    "cap3": "Khung ảnh & vật trang trí tường",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1115,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Trang trí nhà cửa",
+    "cap3": "Khăn trải bàn",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1116,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Trang trí nhà cửa",
+    "cap3": "Bình trang trí",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1117,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Trang trí nhà cửa",
+    "cap3": "Decal, tranh dán tường",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1118,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Bộ đồ bàn ăn",
+    "cap3": "Tô",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1119,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Bộ đồ bàn ăn",
+    "cap3": "Cốc, ly, tách uống nước",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1120,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Bộ đồ bàn ăn",
+    "cap3": "Bộ dao kéo",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1121,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Bộ đồ bàn ăn",
+    "cap3": "Lồng bàn",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1122,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Bộ đồ bàn ăn",
+    "cap3": "Bình nước",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1123,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Bộ đồ bàn ăn",
+    "cap3": "Khác",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1124,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Bộ đồ bàn ăn",
+    "cap3": "Khay, tấm lót bàn ăn",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1125,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Bộ đồ bàn ăn",
+    "cap3": "Dĩa",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1126,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Bộ đồ bàn ăn",
+    "cap3": "Ống hút",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1127,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Bộ đồ bàn ăn",
+    "cap3": "Bộ ấm trà",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1128,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Bộ đồ bàn ăn",
+    "cap3": "Bình nước & phụ kiện",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1129,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Đồ thờ cúng, đồ phong thủy",
+    "cap3": null,
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1130,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Nội thất",
+    "cap3": "Giường, khung giường",
+    "phiCoDinh": 0.115
+  },
+  {
+    "stt": 1131,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Nội thất",
+    "cap3": "Ghế, ghế dài, ghế đẩu",
+    "phiCoDinh": 0.115
+  },
+  {
+    "stt": 1132,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Nội thất",
+    "cap3": "Tủ bếp",
+    "phiCoDinh": 0.115
+  },
+  {
+    "stt": 1133,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Nội thất",
+    "cap3": "Đệm ngồi",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1134,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Nội thất",
+    "cap3": "Bàn",
+    "phiCoDinh": 0.115
+  },
+  {
+    "stt": 1135,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Nội thất",
+    "cap3": "Miếng chặn cửa",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1136,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Nội thất",
+    "cap3": "Khác",
+    "phiCoDinh": 0.115
+  },
+  {
+    "stt": 1137,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Nội thất",
+    "cap3": "Kệ & Giá",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1138,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Nội thất",
+    "cap3": "Ghế sofa",
+    "phiCoDinh": 0.115
+  },
+  {
+    "stt": 1139,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Nội thất",
+    "cap3": "Tủ quần áo",
+    "phiCoDinh": 0.115
+  },
+  {
+    "stt": 1140,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Làm vườn",
+    "cap3": "Phân bón",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1141,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Làm vườn",
+    "cap3": "Trang trí vườn",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1142,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Làm vườn",
+    "cap3": "Đất trồng",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1143,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Làm vườn",
+    "cap3": "Dụng cụ làm vườn",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1144,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Làm vườn",
+    "cap3": "Hệ thống tưới nước",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1145,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Làm vườn",
+    "cap3": "Máy cắt cỏ, dụng cụ cắt cỏ",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1146,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Làm vườn",
+    "cap3": "Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1147,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Làm vườn",
+    "cap3": "Cây cảnh",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1148,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Làm vườn",
+    "cap3": "Chậu cây",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1149,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Làm vườn",
+    "cap3": "Hạt giống & chất hỗ trợ trồng cây",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1150,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Túi làm ấm",
+    "cap3": null,
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1151,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ chăm sóc nhà cửa",
+    "cap3": "Chậu, xô & gáo nước",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1152,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ chăm sóc nhà cửa",
+    "cap3": "Chổi",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1153,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ chăm sóc nhà cửa",
+    "cap3": "Chất tẩy rửa",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1154,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ chăm sóc nhà cửa",
+    "cap3": "Bàn chải vệ sinh",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1155,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ chăm sóc nhà cửa",
+    "cap3": "Khăn vệ sinh",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1156,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ chăm sóc nhà cửa",
+    "cap3": "Dây phơi & giá phơi quần áo",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1157,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ chăm sóc nhà cửa",
+    "cap3": "Chổi phủi bụi",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1158,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ chăm sóc nhà cửa",
+    "cap3": "Phụ kiện giặt là",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1159,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ chăm sóc nhà cửa",
+    "cap3": "Cây lau nhà",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1160,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ chăm sóc nhà cửa",
+    "cap3": "Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1161,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ chăm sóc nhà cửa",
+    "cap3": "Thuốc và dụng cụ diệt côn trùng",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1162,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ chăm sóc nhà cửa",
+    "cap3": "Túi nilon & túi rác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1163,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ chăm sóc nhà cửa",
+    "cap3": "Miếng bọt biển, miếng chà vệ sinh",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1164,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ chăm sóc nhà cửa",
+    "cap3": "Khăn giấy, giấy ướt",
+    "phiCoDinh": 0.115
+  },
+  {
+    "stt": 1165,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ chăm sóc nhà cửa",
+    "cap3": "Giấy vệ sinh",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1166,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ chăm sóc nhà cửa",
+    "cap3": "Thùng rác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1167,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Chất khử mùi, làm thơm nhà",
+    "cap3": "Chất khử mùi, làm thơm",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1168,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Chất khử mùi, làm thơm nhà",
+    "cap3": "Máy khuếch tán, tạo ẩm & xông tinh dầu",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1169,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Chất khử mùi, làm thơm nhà",
+    "cap3": "Tinh dầu thơm",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1170,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Chất khử mùi, làm thơm nhà",
+    "cap3": "Khác",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1171,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Sắp xếp nhà cửa",
+    "cap3": "Kệ sách để bàn",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1172,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Sắp xếp nhà cửa",
+    "cap3": "Mắc áo",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1173,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Sắp xếp nhà cửa",
+    "cap3": "Móc treo",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1174,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Sắp xếp nhà cửa",
+    "cap3": "Hộp đựng trang sức",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1175,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Sắp xếp nhà cửa",
+    "cap3": "Túi giặt, giỏ đựng quần áo",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1176,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Sắp xếp nhà cửa",
+    "cap3": "Khác",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1177,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Sắp xếp nhà cửa",
+    "cap3": "Kệ giày, hộp giày",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1178,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Sắp xếp nhà cửa",
+    "cap3": "Hộp đựng, giỏ đựng đồ",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1179,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Sắp xếp nhà cửa",
+    "cap3": "Hộp khăn giấy",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1180,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Sắp xếp nhà cửa",
+    "cap3": "Sắp xếp tủ quần áo",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1181,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ nhà bếp",
+    "cap3": "Giấy bạc",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1182,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ nhà bếp",
+    "cap3": "Tạp dề & găng tay nấu nướng",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1183,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ nhà bếp",
+    "cap3": "Dụng cụ nướng & trang trí bánh",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1184,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ nhà bếp",
+    "cap3": "Dụng cụ mở hộp",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1185,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ nhà bếp",
+    "cap3": "Thớt",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1186,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ nhà bếp",
+    "cap3": "Màng bọc thực phẩm",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1187,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ nhà bếp",
+    "cap3": "Hộp đựng thực phẩm",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1188,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ nhà bếp",
+    "cap3": "Bàn nạo, dụng cụ bào, cắt",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1189,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ nhà bếp",
+    "cap3": "Lò nướng & phụ kiện",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1190,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ nhà bếp",
+    "cap3": "Kệ để đồ nhà bếp",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1191,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ nhà bếp",
+    "cap3": "Cân nhà bếp",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1192,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ nhà bếp",
+    "cap3": "Dao & kéo",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1193,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ nhà bếp",
+    "cap3": "Bật lửa, diêm và mồi lửa",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1194,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ nhà bếp",
+    "cap3": "Measuring Glasses & Spoons",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1195,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ nhà bếp",
+    "cap3": "Khác",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1196,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ nhà bếp",
+    "cap3": "Chảo",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1197,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ nhà bếp",
+    "cap3": "Nồi",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1198,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ nhà bếp",
+    "cap3": "Dụng cụ hút chân không",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1199,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ nhà bếp",
+    "cap3": "Cây vét bột & đồ gắp thức ăn",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1200,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ nhà bếp",
+    "cap3": "Dụng cụ lọc",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1201,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ nhà bếp",
+    "cap3": "Dụng cụ pha trà, cà phê",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1202,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ nhà bếp",
+    "cap3": "Phới đánh trứng",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1203,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Đèn",
+    "cap3": null,
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1204,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Khác",
+    "cap3": null,
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1205,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Trang trí tiệc tùng",
+    "cap3": "Phông nền, biểu ngữ",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1206,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Trang trí tiệc tùng",
+    "cap3": "Bong bóng",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1207,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Trang trí tiệc tùng",
+    "cap3": "Thiệp",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1208,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Trang trí tiệc tùng",
+    "cap3": "Chén, đĩa dùng một lần",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1209,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Trang trí tiệc tùng",
+    "cap3": "Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1210,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Trang trí tiệc tùng",
+    "cap3": "Mũ, mặt nạ dự tiệc",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1211,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Trang trí tiệc tùng",
+    "cap3": "Băng đeo chéo",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1212,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Trang trí tiệc tùng",
+    "cap3": "Kẹp gỗ",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1213,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Bảo hộ gia đình",
+    "cap3": "Khóa, ổ khóa",
+    "phiCoDinh": 0.115
+  },
+  {
+    "stt": 1214,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Bảo hộ gia đình",
+    "cap3": "Thiết bị chữa cháy",
+    "phiCoDinh": 0.115
+  },
+  {
+    "stt": 1215,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Bảo hộ gia đình",
+    "cap3": "Khác",
+    "phiCoDinh": 0.115
+  },
+  {
+    "stt": 1216,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Bảo hộ gia đình",
+    "cap3": "Két sắt",
+    "phiCoDinh": 0.115
+  },
+  {
+    "stt": 1217,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ & Thiết bị tiện ích",
+    "cap3": "Máy bơm khí & phụ kiện",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1218,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ & Thiết bị tiện ích",
+    "cap3": "Vật liệu xây dựng",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1219,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ & Thiết bị tiện ích",
+    "cap3": "Cửa & cửa sổ",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1220,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ & Thiết bị tiện ích",
+    "cap3": "Keo & chất kết chính công nghiệp",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1221,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ & Thiết bị tiện ích",
+    "cap3": "Thang",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1222,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ & Thiết bị tiện ích",
+    "cap3": "Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1223,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ & Thiết bị tiện ích",
+    "cap3": "Găng tay, kính bảo hộ & mặt nạ",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1224,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ & Thiết bị tiện ích",
+    "cap3": "Mái & sàn",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1225,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ & Thiết bị tiện ích",
+    "cap3": "Mái hiên, bạt phủ",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1226,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ & Thiết bị tiện ích",
+    "cap3": "Chậu rửa & vòi nước",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1227,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ & Thiết bị tiện ích",
+    "cap3": "Dụng cụ",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1228,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ & Thiết bị tiện ích",
+    "cap3": "Xe đẩy",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1229,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ & Thiết bị tiện ích",
+    "cap3": "Sơn & chất chống thấm tường",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1230,
+    "cap1": "Nhà cửa & Đời sống",
+    "cap2": "Dụng cụ & Thiết bị tiện ích",
+    "cap3": "Máy bơm nước & phụ kiện",
+    "phiCoDinh": 0.126
+  },
+  {
+    "stt": 1231,
+    "cap1": "Mô tô, xe máy",
+    "cap2": "Phụ kiện xe máy",
+    "cap3": "Thùng chứa đồ",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1232,
+    "cap1": "Mô tô, xe máy",
+    "cap2": "Phụ kiện xe máy",
+    "cap3": "Lót sàn",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1233,
+    "cap1": "Mô tô, xe máy",
+    "cap2": "Phụ kiện xe máy",
+    "cap3": "Bạt phủ",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1234,
+    "cap1": "Mô tô, xe máy",
+    "cap2": "Phụ kiện xe máy",
+    "cap3": "Khóa và thiết bị chống trộm",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1235,
+    "cap1": "Mô tô, xe máy",
+    "cap2": "Phụ kiện xe máy",
+    "cap3": "Gương và phụ kiện",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1236,
+    "cap1": "Mô tô, xe máy",
+    "cap2": "Phụ kiện xe máy",
+    "cap3": "Tấm chắn bùn",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1237,
+    "cap1": "Mô tô, xe máy",
+    "cap2": "Phụ kiện xe máy",
+    "cap3": "Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1238,
+    "cap1": "Mô tô, xe máy",
+    "cap2": "Phụ kiện xe máy",
+    "cap3": "Giá đỡ điện thoại",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1239,
+    "cap1": "Mô tô, xe máy",
+    "cap2": "Phụ kiện xe máy",
+    "cap3": "Ghế & bọc ghế",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1240,
+    "cap1": "Mô tô, xe máy",
+    "cap2": "Phụ kiện xe máy",
+    "cap3": "Đồng hồ đo",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1241,
+    "cap1": "Mô tô, xe máy",
+    "cap2": "Phụ kiện xe máy",
+    "cap3": "Hình dán, logo, huy hiệu",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1242,
+    "cap1": "Mô tô, xe máy",
+    "cap2": "Mũ bảo hiểm & Phụ kiện",
+    "cap3": null,
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1243,
+    "cap1": "Mô tô, xe máy",
+    "cap2": "Phụ tùng xe máy",
+    "cap3": "Pin & Phụ kiện",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1244,
+    "cap1": "Mô tô, xe máy",
+    "cap2": "Phụ tùng xe máy",
+    "cap3": "Hệ thống khung xe",
+    "phiCoDinh": 0.115
+  },
+  {
+    "stt": 1245,
+    "cap1": "Mô tô, xe máy",
+    "cap2": "Phụ tùng xe máy",
+    "cap3": "Hệ thống phanh",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1246,
+    "cap1": "Mô tô, xe máy",
+    "cap2": "Phụ tùng xe máy",
+    "cap3": "Dây cáp & Ống",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1247,
+    "cap1": "Mô tô, xe máy",
+    "cap2": "Phụ tùng xe máy",
+    "cap3": "Hệ thống dẫn động",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1248,
+    "cap1": "Mô tô, xe máy",
+    "cap2": "Phụ tùng xe máy",
+    "cap3": "Hệ thống khí xả",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1249,
+    "cap1": "Mô tô, xe máy",
+    "cap2": "Phụ tùng xe máy",
+    "cap3": "Hệ thống xử lý nhiên liệu",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1250,
+    "cap1": "Mô tô, xe máy",
+    "cap2": "Phụ tùng xe máy",
+    "cap3": "Còi & Phụ kiện",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1251,
+    "cap1": "Mô tô, xe máy",
+    "cap2": "Phụ tùng xe máy",
+    "cap3": "Bộ phận đánh lửa & động cơ",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1252,
+    "cap1": "Mô tô, xe máy",
+    "cap2": "Phụ tùng xe máy",
+    "cap3": "Đèn",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1253,
+    "cap1": "Mô tô, xe máy",
+    "cap2": "Phụ tùng xe máy",
+    "cap3": "Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1254,
+    "cap1": "Mô tô, xe máy",
+    "cap2": "Phụ tùng xe máy",
+    "cap3": "Hệ thống giảm xóc",
+    "phiCoDinh": 0.115
+  },
+  {
+    "stt": 1255,
+    "cap1": "Mô tô, xe máy",
+    "cap2": "Phụ tùng xe máy",
+    "cap3": "Lốp xe & Phụ kiện",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1256,
+    "cap1": "Mô tô, xe máy",
+    "cap2": "Phụ tùng xe máy",
+    "cap3": "Bánh xe, Vành & Phụ kiện",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1257,
+    "cap1": "Mô tô, xe máy",
+    "cap2": "Mô tô, xe máy",
+    "cap3": null,
+    "phiCoDinh": 0.015
+  },
+  {
+    "stt": 1258,
+    "cap1": "Mô tô, xe máy",
+    "cap2": "Khác",
+    "cap3": null,
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1259,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Họa cụ",
+    "cap3": "Sơn Acrylic",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1260,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Họa cụ",
+    "cap3": "Vải & Giá Vẽ",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1261,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Họa cụ",
+    "cap3": "Bút Chì Màu",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1262,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Họa cụ",
+    "cap3": "Bút Màu & Phấn Màu",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1263,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Họa cụ",
+    "cap3": "Sơn Dầu",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1264,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Họa cụ",
+    "cap3": "Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1265,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Họa cụ",
+    "cap3": "Cọ Vẽ",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1266,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Họa cụ",
+    "cap3": "Bảng Màu",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1267,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Họa cụ",
+    "cap3": "Sổ vẽ phác thảo",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1268,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Họa cụ",
+    "cap3": "Màu Nước",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1269,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Quà Tặng - Giấy Gói",
+    "cap3": "Xốp Chống Sốc",
+    "phiCoDinh": 0.115
+  },
+  {
+    "stt": 1270,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Quà Tặng - Giấy Gói",
+    "cap3": "Hộp Carton",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1271,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Quà Tặng - Giấy Gói",
+    "cap3": "Túi Quà Tặng",
+    "phiCoDinh": 0.115
+  },
+  {
+    "stt": 1272,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Quà Tặng - Giấy Gói",
+    "cap3": "Hộp Quà Tặng",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1273,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Quà Tặng - Giấy Gói",
+    "cap3": "Giấy Gói Quà",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1274,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Quà Tặng - Giấy Gói",
+    "cap3": "Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1275,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Quà Tặng - Giấy Gói",
+    "cap3": "Ruy Băng",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1276,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Thư Tín",
+    "cap3": "Phong Bì & Bao Lì Xì",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1277,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Thư Tín",
+    "cap3": "Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1278,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Thư Tín",
+    "cap3": "Bưu Thiếp",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1279,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Thư Tín",
+    "cap3": "Tem Các Loại",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1280,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Sổ & Giấy Các Loại",
+    "cap3": "Giấy Mỹ Thuật",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1281,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Sổ & Giấy Các Loại",
+    "cap3": "Bọc Sách",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1282,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Sổ & Giấy Các Loại",
+    "cap3": "Đánh Dấu Trang",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1283,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Sổ & Giấy Các Loại",
+    "cap3": "Nhãn Dán Các Loại",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1284,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Sổ & Giấy Các Loại",
+    "cap3": "Ruột Sổ",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1285,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Sổ & Giấy Các Loại",
+    "cap3": "Giấy Ghi Chú",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1286,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Sổ & Giấy Các Loại",
+    "cap3": "Tập, Vở Các Loại",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1287,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Sổ & Giấy Các Loại",
+    "cap3": "Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1288,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Sổ & Giấy Các Loại",
+    "cap3": "Giấy In",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1289,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Sổ & Giấy Các Loại",
+    "cap3": "Giấy Nhiệt",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1290,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Khác",
+    "cap3": null,
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1291,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Thiết Bị Trường Học",
+    "cap3": "Máy tính cầm tay",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1292,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Thiết Bị Trường Học",
+    "cap3": "Lịch",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1293,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Thiết Bị Trường Học",
+    "cap3": "Kẹp & Ghim Bấm",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1294,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Thiết Bị Trường Học",
+    "cap3": "Dụng Cụ Lưu Trữ Giấy Tờ",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1295,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Thiết Bị Trường Học",
+    "cap3": "Hồ Dán",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1296,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Thiết Bị Trường Học",
+    "cap3": "Máy Đục Lỗ",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1297,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Thiết Bị Trường Học",
+    "cap3": "Mực Đóng Dấu",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1298,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Thiết Bị Trường Học",
+    "cap3": "Máy In Nhãn",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1299,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Thiết Bị Trường Học",
+    "cap3": "Dây Đeo Thẻ & Thẻ Tên",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1300,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Thiết Bị Trường Học",
+    "cap3": "Khác",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1301,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Thiết Bị Trường Học",
+    "cap3": "Dao Rọc Giấy & Máy Cắt Giấy",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1302,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Thiết Bị Trường Học",
+    "cap3": "Hộp Bút",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1303,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Thiết Bị Trường Học",
+    "cap3": "Thước Các Loại & Giấy Nến",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1304,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Thiết Bị Trường Học",
+    "cap3": "Kéo",
+    "phiCoDinh": 0.142
+  },
+  {
+    "stt": 1305,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Thiết Bị Trường Học",
+    "cap3": "Gọt bút chì",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1306,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Thiết Bị Trường Học",
+    "cap3": "Đồ Bấm Kim và Kim Bấm",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1307,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Thiết Bị Trường Học",
+    "cap3": "Dây & Băng Keo Dán",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1308,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Thiết Bị Trường Học",
+    "cap3": "Bảng Viết & Giá Treo Bảng",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1309,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Bút Các Loại",
+    "cap3": "Dụng Cụ Tẩy Xóa",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1310,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Bút Các Loại",
+    "cap3": "Bút Dạ Quang",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1311,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Bút Các Loại",
+    "cap3": "Bút Lông Màu",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1312,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Bút Các Loại",
+    "cap3": "Khác",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1313,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Bút Các Loại",
+    "cap3": "Bút Chì",
+    "phiCoDinh": 0.137
+  },
+  {
+    "stt": 1314,
+    "cap1": "Văn Phòng Phẩm",
+    "cap2": "Bút Các Loại",
+    "cap3": "Bút & Mực",
+    "phiCoDinh": 0.137
+  }
+]
