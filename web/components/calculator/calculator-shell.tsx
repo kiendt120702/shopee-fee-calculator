@@ -89,26 +89,26 @@ export function CalculatorShell({ initialMode = "mall" }: CalculatorShellProps) 
   };
 
   return (
-    <main className="mx-auto w-full max-w-6xl flex-1 px-4 py-6 sm:px-6 sm:py-10">
-      <header className="mb-6 flex flex-col gap-4">
+    <main className="mx-auto w-full max-w-6xl flex-1 px-3 py-5 sm:px-6 sm:py-8 lg:py-10">
+      <header className="mb-5 flex flex-col gap-4 sm:mb-6">
         <div>
-          <p className="text-xs uppercase tracking-wider text-primary font-semibold">
+          <p className="text-[11px] font-semibold uppercase tracking-wider text-primary sm:text-xs">
             Công cụ Betacom
           </p>
-          <h1 className="text-2xl font-bold tracking-tight sm:text-3xl">
+          <h1 className="text-xl font-bold tracking-tight sm:text-2xl lg:text-3xl">
             Tính phí &amp; lợi nhuận sàn Shopee
           </h1>
         </div>
-        <div className="flex flex-wrap items-end justify-between gap-3">
+        <div className="flex flex-col gap-3 sm:flex-row sm:flex-wrap sm:items-end sm:justify-between">
           <div className="w-full sm:max-w-md">
             <ModeToggle value={mode} onChange={handleModeChange} />
           </div>
-          <div className="flex gap-2">
+          <div className="flex flex-wrap gap-2">
             <ShareButton state={state} category={category} />
             <button
               type="button"
               onClick={saveToHistory}
-              className="inline-flex h-9 items-center rounded-md border border-border bg-background px-3 text-xs font-medium hover:bg-accent"
+              className="inline-flex h-9 flex-1 items-center justify-center rounded-md border border-border bg-background px-3 text-xs font-medium hover:bg-accent sm:flex-none"
             >
               Lưu lịch sử
             </button>
@@ -116,8 +116,8 @@ export function CalculatorShell({ initialMode = "mall" }: CalculatorShellProps) 
         </div>
       </header>
 
-      <div className="grid gap-5 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.4fr)]">
-        <div className="flex flex-col gap-5">
+      <div className="grid gap-4 sm:gap-5 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.4fr)]">
+        <div className="flex flex-col gap-4 sm:gap-5">
           <InputForm
             state={state}
             category={category}
@@ -129,7 +129,7 @@ export function CalculatorShell({ initialMode = "mall" }: CalculatorShellProps) 
             onApply={(giaBan) => state.setField("giaBan", giaBan)}
           />
         </div>
-        <div className="flex flex-col gap-5">
+        <div className="flex flex-col gap-4 sm:gap-5">
           <ResultTable result={state.result} mode={mode} />
           <HistoryList
             mode={mode}

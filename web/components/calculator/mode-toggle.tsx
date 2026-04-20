@@ -29,7 +29,7 @@ export function ModeToggle({ value, onChange }: ModeToggleProps) {
         value={value}
         onValueChange={(v) => v && onChange(v as ShopMode)}
       >
-        <SelectTrigger className="w-full text-base font-semibold sm:w-72">
+        <SelectTrigger className="w-full text-base font-semibold">
           <span>{current.label}</span>
         </SelectTrigger>
         <SelectContent>

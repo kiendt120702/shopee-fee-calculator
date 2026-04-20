@@ -81,19 +81,19 @@ export function ReverseCalcCard({ mode, input, onApply }: ReverseCalcCardProps) 
           </Select>
         </div>
       </div>
-      <div className="flex flex-wrap items-center justify-between gap-3">
-        <Button type="button" onClick={compute}>
+      <div className="flex flex-col gap-3 sm:flex-row sm:flex-wrap sm:items-center sm:justify-between">
+        <Button type="button" onClick={compute} className="w-full sm:w-auto">
           Tính giá bán đề xuất
         </Button>
         {proposed && (
-          <div className="flex flex-col items-end text-right">
+          <div className="flex flex-col items-start gap-0.5 sm:items-end sm:text-right">
             <span className="text-xs text-muted-foreground">
               Giá bán đề xuất ({formatPercent(proposed.achievedLnPercent)} LN)
             </span>
             <button
               type="button"
               onClick={() => onApply(proposed.giaBan)}
-              className="font-mono text-lg font-bold text-primary hover:underline"
+              className="font-mono text-base font-bold text-primary hover:underline sm:text-lg"
               title="Áp dụng vào form"
             >
               {formatVnd(proposed.giaBan)} →

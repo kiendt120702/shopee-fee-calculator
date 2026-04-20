@@ -54,7 +54,7 @@ export function BentoCard({
   return (
     <Card
       className={cn(
-        "flex flex-col gap-4 rounded-2xl border p-5 shadow-sm sm:p-6",
+        "flex flex-col gap-4 rounded-2xl border p-4 shadow-sm sm:p-5 lg:p-6",
         styles.card,
         className
       )}

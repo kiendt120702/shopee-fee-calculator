@@ -56,17 +56,20 @@ export function ResultTable({ result, mode }: ResultTableProps) {
       title="So sánh 4 kịch bản"
       description="Cột tô màu là phương án có lợi nhuận cao nhất"
     >
-      <div className="rounded-xl border border-[oklch(0.85_0.12_145)]/30 bg-[oklch(0.96_0.06_145)]/40 px-3 py-2 text-xs">
-        <span className="font-medium text-muted-foreground">Phương án tối ưu: </span>
+      <div className="flex flex-col gap-1 rounded-xl border border-[oklch(0.85_0.12_145)]/30 bg-[oklch(0.96_0.06_145)]/40 px-3 py-2 text-xs sm:flex-row sm:items-center sm:gap-2">
+        <span className="font-medium text-muted-foreground">Phương án tối ưu</span>
         <span className="font-semibold text-[oklch(0.4_0.15_145)]">
           {SCENARIO_LABELS[best]}
         </span>
-        <span className="ml-1 font-mono font-bold text-[oklch(0.4_0.15_145)]">
-          · {formatVnd(result[best].loiNhuan)}
+        <span className="font-mono text-sm font-bold text-[oklch(0.4_0.15_145)] sm:ml-auto">
+          {formatVnd(result[best].loiNhuan)}
         </span>
       </div>
-      <div className="overflow-x-auto">
-        <table className="w-full border-separate border-spacing-0 text-sm">
+      <p className="-mb-2 text-[10px] text-muted-foreground sm:hidden">
+        ← Vuốt ngang để xem đủ 4 kịch bản →
+      </p>
+      <div className="-mx-5 overflow-x-auto px-5 sm:mx-0 sm:px-0">
+        <table className="w-full min-w-[560px] border-separate border-spacing-0 text-sm sm:min-w-0">
           <colgroup>
             <col className="w-[38%] sm:w-[34%]" />
             <col className="w-[15.5%] sm:w-[16.5%]" />
@@ -76,7 +79,7 @@ export function ResultTable({ result, mode }: ResultTableProps) {
           </colgroup>
           <thead>
             <tr>
-              <th className="bg-card/80 px-2 py-2 text-left text-xs font-medium text-muted-foreground">
+              <th className="sticky left-0 z-10 bg-card px-2 py-2 text-left text-xs font-medium text-muted-foreground sm:static">
                 Khoản mục
               </th>
               {SCENARIO_KEYS.map((k) => {
@@ -113,18 +116,20 @@ export function ResultTable({ result, mode }: ResultTableProps) {
               const isProfit = row.label.startsWith("LỢI NHUẬN");
               const isTotalCost = row.label === "Tổng chi phí";
               const isTotalFee = row.label === "Tổng phí Shopee";
+              const rowBg = isProfit
+                ? "bg-[oklch(0.96_0.06_145)]/60"
+                : isTotalCost || isTotalFee
+                  ? "bg-muted/40"
+                  : "bg-card";
               return (
                 <tr
                   key={row.label}
-                  className={cn(
-                    "border-t border-border/40",
-                    isProfit && "bg-[oklch(0.96_0.06_145)]/40",
-                    (isTotalCost || isTotalFee) && "bg-muted/30"
-                  )}
+                  className={cn("border-t border-border/40")}
                 >
                   <td
                     className={cn(
-                      "px-2 py-1.5 text-left text-xs",
+                      "sticky left-0 z-10 px-2 py-1.5 text-left text-xs sm:static",
+                      rowBg,
                       row.emphasize && "font-semibold text-foreground",
                       isProfit && "text-[oklch(0.35_0.15_145)]"
                     )}
@@ -138,6 +143,7 @@ export function ResultTable({ result, mode }: ResultTableProps) {
                         key={k}
                         className={cn(
                           "px-1.5 py-1.5 text-right font-mono tabular-nums text-[11px] sm:text-xs",
+                          rowBg,
                           row.emphasize && "font-semibold",
                           k === best && "bg-[oklch(0.92_0.1_145)]/30",
                           isProfit && v < 0 && "text-destructive font-bold",
