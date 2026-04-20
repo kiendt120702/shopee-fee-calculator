@@ -16,6 +16,7 @@ const FIELD_KEYS: (keyof CalcInput)[] = [
   "phiQc",
   "phiVoucherShop",
   "phiThue",
+  "phiKhac",
 ];
 
 const SHORT: Record<keyof CalcInput, string> = {
@@ -32,6 +33,7 @@ const SHORT: Record<keyof CalcInput, string> = {
   phiQc: "qc",
   phiVoucherShop: "vs",
   phiThue: "tx",
+  phiKhac: "ot",
 };
 
 const REVERSE_SHORT: Record<string, keyof CalcInput> = Object.fromEntries(

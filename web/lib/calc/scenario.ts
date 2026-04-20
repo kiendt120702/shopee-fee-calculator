@@ -9,7 +9,7 @@ export function calcScenario(
   input: CalcInput,
   opts: ScenarioOptions
 ): ScenarioResult {
-  const { giaBan, giaNhap, phiCoDinh, phiHaTang, phiQc, phiVoucherShop, phiThue, piShip, phiShipHoan, tiLeHoan } = input;
+  const { giaBan, giaNhap, phiCoDinh, phiHaTang, phiQc, phiVoucherShop, phiThue, phiKhac, piShip, phiShipHoan, tiLeHoan } = input;
 
   const laiRong = giaBan - giaNhap;
   const phiCoDinhVnd = phiCoDinh * giaBan;
@@ -26,6 +26,7 @@ export function calcScenario(
   const phiQcVnd = phiQc * giaBan;
   const phiVoucherShopVnd = phiVoucherShop * giaBan;
   const phiThueVnd = phiThue * giaBan;
+  const phiKhacVnd = phiKhac * giaBan;
   const phiShipHoanVnd = opts.hasPiShip
     ? 0
     : calcPhiShipHoanPerOrder(phiShipHoan, tiLeHoan);
@@ -36,6 +37,7 @@ export function calcScenario(
     phiQcVnd +
     phiVoucherShopVnd +
     phiThueVnd +
+    phiKhacVnd +
     phiShipHoanVnd;
 
   const loiNhuan = giaBan - giaNhap - tongChiPhi;
@@ -55,6 +57,7 @@ export function calcScenario(
     phiQcVnd,
     phiVoucherShopVnd,
     phiThueVnd,
+    phiKhacVnd,
     phiShipHoanVnd,
     tongChiPhi,
     loiNhuan,

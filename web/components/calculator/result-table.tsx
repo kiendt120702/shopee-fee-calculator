@@ -1,7 +1,6 @@
 "use client";
 
 import { BentoCard } from "@/components/common/bento-card";
-import { Badge } from "@/components/ui/badge";
 import {
   SCENARIO_KEYS,
   SCENARIO_LABELS,
@@ -39,6 +38,7 @@ const ROWS: Row[] = [
   { label: "Phí quảng cáo", pick: (s) => s.phiQcVnd },
   { label: "Voucher shop", pick: (s) => s.phiVoucherShopVnd },
   { label: "Thuế HKD", pick: (s) => s.phiThueVnd },
+  { label: "Phí khác", pick: (s) => s.phiKhacVnd },
   { label: "Phí ship hoàn", pick: (s) => s.phiShipHoanVnd },
   { label: "Tổng chi phí", pick: (s) => s.tongChiPhi, emphasize: true },
   { label: "LỢI NHUẬN", pick: (s) => s.loiNhuan, emphasize: true },
@@ -97,13 +97,10 @@ export function ResultTable({ result, mode }: ResultTableProps) {
                   >
                     <div className="flex flex-col items-end gap-0.5">
                       <span className="block">{lbl.line1}</span>
-                      <span className="block text-[10px] font-normal opacity-90">
-                        {lbl.line2}
-                      </span>
-                      {k === best && (
-                        <Badge className="mt-0.5 border-0 bg-[oklch(0.92_0.1_145)] px-1.5 py-0 text-[9px] font-bold text-[oklch(0.35_0.15_145)]">
-                          Tối ưu
-                        </Badge>
+                      {lbl.line2 && (
+                        <span className="block text-[10px] font-normal opacity-90">
+                          {lbl.line2}
+                        </span>
                       )}
                     </div>
                   </th>

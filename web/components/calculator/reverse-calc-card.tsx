@@ -26,8 +26,8 @@ interface ReverseCalcCardProps {
 }
 
 const SCENARIO_OPTIONS: { key: string; label: string; opts: ScenarioOptions }[] = [
-  { key: "k-co", label: "Không ĐK · Có Pi Ship", opts: { hasVoucherXtra: false, hasPiShip: true } },
-  { key: "k-khong", label: "Không ĐK · Không Pi Ship", opts: { hasVoucherXtra: false, hasPiShip: false } },
+  { key: "k-co", label: "Có Pi Ship", opts: { hasVoucherXtra: false, hasPiShip: true } },
+  { key: "k-khong", label: "Không Pi Ship", opts: { hasVoucherXtra: false, hasPiShip: false } },
   { key: "v-co", label: "Voucher Xtra · Có Pi Ship", opts: { hasVoucherXtra: true, hasPiShip: true } },
   { key: "v-khong", label: "Voucher Xtra · Không Pi Ship", opts: { hasVoucherXtra: true, hasPiShip: false } },
 ];
@@ -71,7 +71,7 @@ export function ReverseCalcCard({ mode, input, onApply }: ReverseCalcCardProps) 
             <SelectTrigger className="w-full min-w-0">
               <SelectValue />
             </SelectTrigger>
-            <SelectContent className="min-w-72">
+            <SelectContent className="min-w-72" alignItemWithTrigger={false} sideOffset={6}>
               {SCENARIO_OPTIONS.map((s) => (
                 <SelectItem key={s.key} value={s.key}>
                   <span className="whitespace-normal">{s.label}</span>

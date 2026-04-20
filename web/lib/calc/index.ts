@@ -11,15 +11,15 @@ export function calc(input: CalcInput): CalcResult {
 }
 
 export const SCENARIO_LABELS: Record<ScenarioKey, string> = {
-  khongDk_coPiShip: "Không ĐK · Có Pi Ship",
-  khongDk_khongPiShip: "Không ĐK · Không Pi Ship",
+  khongDk_coPiShip: "Có Pi Ship",
+  khongDk_khongPiShip: "Không Pi Ship",
   voucherXtra_coPiShip: "Voucher Xtra · Có Pi Ship",
   voucherXtra_khongPiShip: "Voucher Xtra · Không Pi Ship",
 };
 
 export const SCENARIO_LABELS_SHORT: Record<ScenarioKey, { line1: string; line2: string }> = {
-  khongDk_coPiShip: { line1: "Không ĐK", line2: "Có Pi Ship" },
-  khongDk_khongPiShip: { line1: "Không ĐK", line2: "Không Pi Ship" },
+  khongDk_coPiShip: { line1: "Có Pi Ship", line2: "" },
+  khongDk_khongPiShip: { line1: "Không Pi Ship", line2: "" },
   voucherXtra_coPiShip: { line1: "Voucher Xtra", line2: "Có Pi Ship" },
   voucherXtra_khongPiShip: { line1: "Voucher Xtra", line2: "Không Pi Ship" },
 };

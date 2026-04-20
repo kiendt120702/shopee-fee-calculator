@@ -84,10 +84,10 @@ export function InputForm({ state, category, onCategoryChange }: InputFormProps)
         <section className="flex flex-col gap-2">
           <div className="flex items-center gap-2">
             <h4 className="text-xs font-semibold uppercase tracking-wider text-muted-foreground">
-              Phí Shopee quy định
+              Phí Shopee bắt buộc
             </h4>
             <span className="rounded-full bg-muted px-2 py-0.5 text-[10px] font-medium text-muted-foreground">
-              Cố định
+              Áp dụng mọi đơn
             </span>
           </div>
           <div className="flex flex-col gap-1.5">
@@ -96,10 +96,6 @@ export function InputForm({ state, category, onCategoryChange }: InputFormProps)
               value={formatPercent(input.phiThanhToan)}
               hint="Tính trên (giá bán + ship − voucher shop)"
             />
-            <ReadOnlyField
-              label="Phí Voucher Xtra"
-              value={`${formatPercent(input.phiVoucherXtra)} · cap ${formatVnd(50000)}`}
-            />
             {mode === "mall" && (
               <ReadOnlyField
                 label="Phí hạ tầng"
@@ -107,13 +103,35 @@ export function InputForm({ state, category, onCategoryChange }: InputFormProps)
               />
             )}
             <ReadOnlyField
-              label="Phí Pi Ship / đơn"
-              value={formatVnd(input.piShip)}
-            />
-            <ReadOnlyField
               label="Thuế HKD"
               value={formatPercent(input.phiThue)}
               hint="Quy định nhà nước, đã bao gồm trong phí cố định"
+            />
+          </div>
+        </section>
+
+        <section className="flex flex-col gap-2">
+          <div className="flex items-center gap-2">
+            <h4 className="text-xs font-semibold uppercase tracking-wider text-muted-foreground">
+              Dịch vụ tùy chọn
+            </h4>
+            <span className="rounded-full bg-[oklch(0.92_0.08_240)] px-2 py-0.5 text-[10px] font-medium text-[oklch(0.45_0.15_240)]">
+              Shop chọn bật/tắt
+            </span>
+          </div>
+          <p className="text-[11px] text-muted-foreground">
+            Bảng kết quả tự tính cả 4 kịch bản có/không 2 dịch vụ này.
+          </p>
+          <div className="flex flex-col gap-1.5">
+            <ReadOnlyField
+              label="Phí Voucher Xtra"
+              value={`${formatPercent(input.phiVoucherXtra)} · cap ${formatVnd(50000)}`}
+              hint="Khi đăng ký chương trình trợ giá Voucher Xtra"
+            />
+            <ReadOnlyField
+              label="Phí Pi Ship / đơn"
+              value={formatVnd(input.piShip)}
+              hint="Khi đăng ký dịch vụ Pi Ship (tránh phí ship hoàn)"
             />
           </div>
         </section>
@@ -127,7 +145,7 @@ export function InputForm({ state, category, onCategoryChange }: InputFormProps)
               Có thể chỉnh
             </span>
           </div>
-          <div className="grid gap-4 sm:grid-cols-2">
+          <div className="flex flex-col gap-3">
             <Field label="Phí quảng cáo">
               <PercentInput
                 value={input.phiQc}
@@ -156,6 +174,12 @@ export function InputForm({ state, category, onCategoryChange }: InputFormProps)
               <MoneyInput
                 value={input.phiShipHoan}
                 onChange={(v) => setField("phiShipHoan", v)}
+              />
+            </Field>
+            <Field label="Phí khác (đóng gói, nhân công, kho bãi…)">
+              <PercentInput
+                value={input.phiKhac}
+                onChange={(v) => setField("phiKhac", v)}
               />
             </Field>
           </div>

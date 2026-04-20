@@ -14,6 +14,7 @@ export interface CalcInput {
   phiQc: number;
   phiVoucherShop: number;
   phiThue: number;
+  phiKhac: number;
 }
 
 export interface ScenarioResult {
@@ -29,6 +30,7 @@ export interface ScenarioResult {
   phiQcVnd: number;
   phiVoucherShopVnd: number;
   phiThueVnd: number;
+  phiKhacVnd: number;
   phiShipHoanVnd: number;
   tongChiPhi: number;
   loiNhuan: number;

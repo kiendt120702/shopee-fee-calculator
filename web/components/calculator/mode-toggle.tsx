@@ -29,15 +29,21 @@ export function ModeToggle({ value, onChange }: ModeToggleProps) {
         value={value}
         onValueChange={(v) => v && onChange(v as ShopMode)}
       >
-        <SelectTrigger className="w-full text-base font-semibold">
+        <SelectTrigger className="w-full text-sm font-semibold">
           <span>{current.label}</span>
         </SelectTrigger>
-        <SelectContent>
+        <SelectContent alignItemWithTrigger={false} sideOffset={6}>
           {MODES.map((m) => (
-            <SelectItem key={m.value} value={m.value}>
+            <SelectItem
+              key={m.value}
+              value={m.value}
+              className="text-foreground"
+            >
               <div className="flex flex-col items-start gap-0.5 py-0.5">
-                <span className="text-sm font-semibold">{m.label}</span>
-                <span className="text-[11px] text-muted-foreground">
+                <span className="text-sm font-semibold text-foreground">
+                  {m.label}
+                </span>
+                <span className="text-[11px] font-normal text-muted-foreground">
                   {m.sub}
                 </span>
               </div>

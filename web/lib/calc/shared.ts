@@ -13,6 +13,7 @@ export const DEFAULTS_MALL: Omit<CalcInput, "giaNhap" | "giaBan" | "phiCoDinh"> 
   phiQc: 0.1,
   phiVoucherShop: 0,
   phiThue: 0.015,
+  phiKhac: 0,
 };
 
 export const DEFAULTS_THUONG: Omit<CalcInput, "giaNhap" | "giaBan" | "phiCoDinh"> = {
@@ -26,6 +27,7 @@ export const DEFAULTS_THUONG: Omit<CalcInput, "giaNhap" | "giaBan" | "phiCoDinh"
   phiQc: 0.1,
   phiVoucherShop: 0,
   phiThue: 0.015,
+  phiKhac: 0,
 };
 
 export function getDefaults(mode: ShopMode): Omit<CalcInput, "giaNhap" | "giaBan" | "phiCoDinh"> {

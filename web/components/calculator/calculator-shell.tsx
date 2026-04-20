@@ -91,14 +91,9 @@ export function CalculatorShell({ initialMode = "mall" }: CalculatorShellProps) 
   return (
     <main className="mx-auto w-full max-w-6xl flex-1 px-3 py-5 sm:px-6 sm:py-8 lg:py-10">
       <header className="mb-5 flex flex-col gap-4 sm:mb-6">
-        <div>
-          <p className="text-[11px] font-semibold uppercase tracking-wider text-primary sm:text-xs">
-            Công cụ Betacom
-          </p>
-          <h1 className="text-xl font-bold tracking-tight sm:text-2xl lg:text-3xl">
-            Tính phí &amp; lợi nhuận sàn Shopee
-          </h1>
-        </div>
+        <h1 className="text-base font-bold uppercase tracking-wider text-primary sm:text-lg lg:text-xl">
+          Công cụ Betacom · Tính phí &amp; lợi nhuận sàn Shopee
+        </h1>
         <div className="flex flex-col gap-3 sm:flex-row sm:flex-wrap sm:items-end sm:justify-between">
           <div className="w-full sm:max-w-md">
             <ModeToggle value={mode} onChange={handleModeChange} />
