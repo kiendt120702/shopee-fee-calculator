@@ -38,8 +38,13 @@ const REVERSE_SHORT: Record<string, keyof CalcInput> = Object.fromEntries(
   Object.entries(SHORT).map(([k, v]) => [v, k as keyof CalcInput])
 );
 
-export function encodeToParams(input: CalcInput, category: CategorySelection): URLSearchParams {
+export function encodeToParams(
+  input: CalcInput,
+  category: CategorySelection,
+  mode?: ShopMode
+): URLSearchParams {
   const params = new URLSearchParams();
+  if (mode) params.set("mode", mode);
   for (const key of FIELD_KEYS) {
     const v = input[key];
     if (typeof v === "number" && v !== 0) {

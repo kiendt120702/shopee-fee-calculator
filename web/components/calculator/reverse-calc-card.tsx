@@ -56,6 +56,7 @@ export function ReverseCalcCard({ mode, input, onApply }: ReverseCalcCardProps) 
 
   return (
     <BentoCard
+      accent="info"
       title="Tính ngược giá bán"
       description="Nhập % lợi nhuận mong muốn → ra giá bán đề xuất"
     >
@@ -67,13 +68,13 @@ export function ReverseCalcCard({ mode, input, onApply }: ReverseCalcCardProps) 
         <div className="grid gap-1.5">
           <Label className="text-xs text-muted-foreground">Kịch bản</Label>
           <Select value={scenarioKey} onValueChange={(v) => v && setScenarioKey(v)}>
-            <SelectTrigger>
+            <SelectTrigger className="w-full min-w-0">
               <SelectValue />
             </SelectTrigger>
-            <SelectContent>
+            <SelectContent className="min-w-72">
               {SCENARIO_OPTIONS.map((s) => (
                 <SelectItem key={s.key} value={s.key}>
-                  {s.label}
+                  <span className="whitespace-normal">{s.label}</span>
                 </SelectItem>
               ))}
             </SelectContent>

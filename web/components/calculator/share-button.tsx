@@ -13,7 +13,7 @@ interface ShareButtonProps {
 
 export function ShareButton({ state, category }: ShareButtonProps) {
   const handleShare = async () => {
-    const params = encodeToParams(state.input, category);
+    const params = encodeToParams(state.input, category, state.mode);
     const url = `${window.location.origin}${window.location.pathname}?${params.toString()}`;
     try {
       await navigator.clipboard.writeText(url);

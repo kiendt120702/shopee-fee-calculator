@@ -17,6 +17,13 @@ export const SCENARIO_LABELS: Record<ScenarioKey, string> = {
   voucherXtra_khongPiShip: "Voucher Xtra · Không Pi Ship",
 };
 
+export const SCENARIO_LABELS_SHORT: Record<ScenarioKey, { line1: string; line2: string }> = {
+  khongDk_coPiShip: { line1: "Không ĐK", line2: "Có Pi Ship" },
+  khongDk_khongPiShip: { line1: "Không ĐK", line2: "Không Pi Ship" },
+  voucherXtra_coPiShip: { line1: "Voucher Xtra", line2: "Có Pi Ship" },
+  voucherXtra_khongPiShip: { line1: "Voucher Xtra", line2: "Không Pi Ship" },
+};
+
 export const SCENARIO_KEYS: ScenarioKey[] = [
   "khongDk_coPiShip",
   "khongDk_khongPiShip",

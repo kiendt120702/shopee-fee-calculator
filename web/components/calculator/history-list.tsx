@@ -15,6 +15,11 @@ interface HistoryListProps {
   onClear: () => void;
 }
 
+const MODE_LABEL: Record<ShopMode, string> = {
+  mall: "Mall",
+  thuong: "Thường",
+};
+
 const dateFmt = new Intl.DateTimeFormat("vi-VN", {
   day: "2-digit",
   month: "2-digit",
@@ -23,19 +28,16 @@ const dateFmt = new Intl.DateTimeFormat("vi-VN", {
 });
 
 export function HistoryList({
-  mode,
   entries,
   onRestore,
   onRemove,
   onClear,
 }: HistoryListProps) {
-  const filtered = entries.filter((e) => e.mode === mode);
+  const filtered = entries;
   return (
     <BentoCard
       title="Lịch sử tính"
-      description={`Lưu trong trình duyệt — chỉ kịch bản ${
-        mode === "mall" ? "Mall" : "Thường"
-      }`}
+      description="Lưu trong trình duyệt — gồm cả Mall và Thường"
       action={
         filtered.length > 0 && (
           <Button
@@ -66,10 +68,13 @@ export function HistoryList({
                 className="group flex flex-1 flex-col items-start text-left"
                 onClick={() => {
                   onRestore(e);
-                  trackEvent("history_restored", { mode });
+                  trackEvent("history_restored", { mode: e.mode });
                 }}
               >
-                <span className="text-xs font-medium group-hover:text-primary">
+                <span className="flex items-center gap-2 text-xs font-medium group-hover:text-primary">
+                  <span className="rounded bg-accent px-1.5 py-0.5 text-[10px] font-semibold text-accent-foreground">
+                    {MODE_LABEL[e.mode]}
+                  </span>
                   {formatVnd(e.input.giaNhap)} → {formatVnd(e.input.giaBan)}
                 </span>
                 <span className="text-[11px] text-muted-foreground">

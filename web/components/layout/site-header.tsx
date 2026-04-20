@@ -1,46 +1,27 @@
-"use client";
-
 import Link from "next/link";
-import { usePathname } from "next/navigation";
 import { BetacomLogo } from "./betacom-logo";
-import { cn } from "@/lib/utils";
-
-const NAV = [
-  { href: "/mall", label: "Shop Mall" },
-  { href: "/thuong", label: "Shop Thường" },
-];
 
 export function SiteHeader() {
-  const pathname = usePathname();
   return (
     <header className="sticky top-0 z-30 border-b border-border/70 bg-background/85 backdrop-blur">
-      <div className="mx-auto flex h-14 w-full max-w-6xl items-center justify-between px-4 sm:px-6">
-        <Link href="/" className="flex items-center gap-2.5">
-          <BetacomLogo size={28} />
-          <span className="text-sm font-semibold tracking-tight">
+      <div className="mx-auto flex h-16 w-full max-w-6xl items-center justify-between px-4 sm:h-18 sm:px-6">
+        <Link href="/" className="flex items-center gap-3">
+          <BetacomLogo size={40} />
+          <span className="text-lg font-bold tracking-tight sm:text-xl">
             Tính Phí Shopee
-            <span className="ml-1 text-muted-foreground font-normal">· Betacom</span>
+            <span className="ml-1.5 text-base font-semibold text-primary sm:text-lg">
+              · Betacom
+            </span>
           </span>
         </Link>
-        <nav className="flex items-center gap-1">
-          {NAV.map((item) => {
-            const active = pathname === item.href;
-            return (
-              <Link
-                key={item.href}
-                href={item.href}
-                className={cn(
-                  "rounded-md px-3 py-1.5 text-sm font-medium transition",
-                  active
-                    ? "bg-primary text-primary-foreground"
-                    : "text-muted-foreground hover:bg-accent hover:text-accent-foreground"
-                )}
-              >
-                {item.label}
-              </Link>
-            );
-          })}
-        </nav>
+        <a
+          href="https://betacom.vn"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-sm font-semibold text-muted-foreground hover:text-primary sm:text-base"
+        >
+          betacom.vn ↗
+        </a>
       </div>
     </header>
   );

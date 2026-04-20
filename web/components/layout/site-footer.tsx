@@ -6,7 +6,9 @@ export function SiteFooter() {
           © {new Date().getFullYear()} Betacom. Số liệu mang tính chất ước
           tính, dựa trên công thức tham khảo Shopee 2026.
         </p>
-        <p>Made with care · Việt Nam</p>
+        <p>
+          By <span className="font-semibold text-primary">Betacom IT</span>
+        </p>
       </div>
     </footer>
   );

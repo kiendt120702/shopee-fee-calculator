@@ -12,7 +12,7 @@ import {
   type CategorySelection,
 } from "@/components/common/category-cascader";
 import type { CalculatorState } from "./use-calculator";
-import { formatPercent } from "@/lib/format";
+import { formatPercent, formatVnd } from "@/lib/format";
 
 interface InputFormProps {
   state: CalculatorState;
@@ -27,6 +27,7 @@ export function InputForm({ state, category, onCategoryChange }: InputFormProps)
   return (
     <div className="flex flex-col gap-5">
       <BentoCard
+        accent="primary"
         title="Thông tin sản phẩm"
         description="Nhập giá nhập, giá bán và chọn ngành hàng"
         action={
@@ -78,6 +79,7 @@ export function InputForm({ state, category, onCategoryChange }: InputFormProps)
       </BentoCard>
 
       <BentoCard
+        accent="warning"
         title="Tham số nâng cao"
         description="Tuỳ chỉnh phí thanh toán, QC, voucher, thuế…"
         action={
@@ -92,75 +94,92 @@ export function InputForm({ state, category, onCategoryChange }: InputFormProps)
         }
       >
         {advanced && (
-          <div className="grid gap-4 sm:grid-cols-2">
-            <Field label="Phí thanh toán">
-              <PercentInput
-                value={input.phiThanhToan}
-                onChange={(v) => setField("phiThanhToan", v)}
-              />
-            </Field>
-            <Field label="Phí Voucher Xtra">
-              <PercentInput
-                value={input.phiVoucherXtra}
-                onChange={(v) => setField("phiVoucherXtra", v)}
-              />
-            </Field>
-            {mode === "mall" && (
-              <Field label="Phí hạ tầng">
-                <MoneyInput
-                  value={input.phiHaTang}
-                  onChange={(v) => setField("phiHaTang", v)}
+          <div className="flex flex-col gap-5">
+            <section className="flex flex-col gap-2">
+              <div className="flex items-center gap-2">
+                <h4 className="text-xs font-semibold uppercase tracking-wider text-muted-foreground">
+                  Phí Shopee quy định
+                </h4>
+                <span className="rounded-full bg-muted px-2 py-0.5 text-[10px] font-medium text-muted-foreground">
+                  Cố định
+                </span>
+              </div>
+              <div className="grid gap-2 sm:grid-cols-2">
+                <ReadOnlyField
+                  label="Phí thanh toán"
+                  value={formatPercent(input.phiThanhToan)}
+                  hint="Tính trên (giá bán + ship − voucher shop)"
                 />
-              </Field>
-            )}
-            <Field label="Phí ship TB khách thanh toán">
-              <MoneyInput
-                value={input.phiShipKhTb}
-                onChange={(v) => setField("phiShipKhTb", v)}
-              />
-            </Field>
-            <Field label="Phí Pi Ship / đơn">
-              <MoneyInput
-                value={input.piShip}
-                onChange={(v) => setField("piShip", v)}
-              />
-            </Field>
-            <Field label="Phí ship hoàn (nếu không Pi Ship)">
-              <MoneyInput
-                value={input.phiShipHoan}
-                onChange={(v) => setField("phiShipHoan", v)}
-              />
-            </Field>
-            <Field label="Tỉ lệ hoàn đơn">
-              <PercentInput
-                value={input.tiLeHoan}
-                onChange={(v) => setField("tiLeHoan", v)}
-              />
-            </Field>
-            <Field label="Phí quảng cáo ước tính">
-              <PercentInput
-                value={input.phiQc}
-                onChange={(v) => setField("phiQc", v)}
-              />
-            </Field>
-            <Field label="Voucher của shop">
-              <PercentInput
-                value={input.phiVoucherShop}
-                onChange={(v) => setField("phiVoucherShop", v)}
-              />
-            </Field>
-            <Field label="Thuế HKD ước tính">
-              <PercentInput
-                value={input.phiThue}
-                onChange={(v) => setField("phiThue", v)}
-              />
-            </Field>
+                <ReadOnlyField
+                  label="Phí Voucher Xtra"
+                  value={`${formatPercent(input.phiVoucherXtra)} · cap ${formatVnd(50000)}`}
+                />
+                {mode === "mall" && (
+                  <ReadOnlyField
+                    label="Phí hạ tầng"
+                    value={`${formatVnd(input.phiHaTang)} / đơn`}
+                  />
+                )}
+                <ReadOnlyField
+                  label="Phí Pi Ship / đơn"
+                  value={formatVnd(input.piShip)}
+                />
+                <ReadOnlyField
+                  label="Thuế HKD"
+                  value={formatPercent(input.phiThue)}
+                  hint="Quy định nhà nước, đã bao gồm trong phí cố định"
+                />
+              </div>
+            </section>
+
+            <section className="flex flex-col gap-2">
+              <div className="flex items-center gap-2">
+                <h4 className="text-xs font-semibold uppercase tracking-wider text-muted-foreground">
+                  Tham số shop tự ước tính
+                </h4>
+                <span className="rounded-full bg-primary/10 px-2 py-0.5 text-[10px] font-medium text-primary">
+                  Có thể chỉnh
+                </span>
+              </div>
+              <div className="grid gap-4 sm:grid-cols-2">
+                <Field label="Phí quảng cáo">
+                  <PercentInput
+                    value={input.phiQc}
+                    onChange={(v) => setField("phiQc", v)}
+                  />
+                </Field>
+                <Field label="Voucher của shop">
+                  <PercentInput
+                    value={input.phiVoucherShop}
+                    onChange={(v) => setField("phiVoucherShop", v)}
+                  />
+                </Field>
+                <Field label="Tỉ lệ hoàn đơn">
+                  <PercentInput
+                    value={input.tiLeHoan}
+                    onChange={(v) => setField("tiLeHoan", v)}
+                  />
+                </Field>
+                <Field label="Phí ship TB khách thanh toán">
+                  <MoneyInput
+                    value={input.phiShipKhTb}
+                    onChange={(v) => setField("phiShipKhTb", v)}
+                  />
+                </Field>
+                <Field label="Phí ship hoàn / đơn (nếu không Pi Ship)">
+                  <MoneyInput
+                    value={input.phiShipHoan}
+                    onChange={(v) => setField("phiShipHoan", v)}
+                  />
+                </Field>
+              </div>
+            </section>
           </div>
         )}
         {!advanced && (
           <p className="text-xs text-muted-foreground">
-            Đang dùng mặc định: TT 4.91%, Voucher Xtra 4% (cap 50k), QC 10%,
-            Thuế 1.5%, Tỉ lệ hoàn 10%.
+            Phí Shopee cố định: TT 4.91% · Voucher Xtra 4% (cap 50k){mode === "mall" && " · Hạ tầng 3.000đ"} · Pi Ship 1.620đ · Thuế HKD 1.5%.
+            Tham số shop ước tính: QC 10%, Tỉ lệ hoàn 10%.
           </p>
         )}
       </BentoCard>
@@ -179,6 +198,30 @@ function Field({
     <div className="grid gap-1.5">
       <Label className="text-xs text-muted-foreground">{label}</Label>
       {children}
+    </div>
+  );
+}
+
+function ReadOnlyField({
+  label,
+  value,
+  hint,
+}: {
+  label: string;
+  value: string;
+  hint?: string;
+}) {
+  return (
+    <div className="flex items-center justify-between gap-3 rounded-lg border border-dashed border-border bg-muted/30 px-3 py-2">
+      <div className="min-w-0">
+        <div className="text-xs text-muted-foreground">{label}</div>
+        {hint && (
+          <div className="text-[10px] text-muted-foreground/70">{hint}</div>
+        )}
+      </div>
+      <span className="font-mono text-sm font-semibold tabular-nums">
+        {value}
+      </span>
     </div>
   );
 }
