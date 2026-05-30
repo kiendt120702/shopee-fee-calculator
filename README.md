@@ -18,7 +18,7 @@ Công cụ web miễn phí cho seller Shopee tính phí, lợi nhuận và so s�
 - Tailwind CSS v4 + shadcn/ui
 - Vercel Analytics + Speed Insights
 - Vitest cho unit tests
-- Static JSON 1.314 ngành hàng × 2 mode
+- Static JSON ngành hàng × 2 mode (Mall & Thường, 1.427 ngành theo phí 2026)
 
 ## Local development
 
