@@ -89,14 +89,14 @@ function HeroSection() {
                   />
                   <PreviewStat
                     label="Tổng chi phí"
-                    value="34.367đ"
+                    value="35.447đ"
                     color="text-muted-foreground"
                   />
                   <PreviewStat
                     label="Lợi nhuận"
-                    value="15.634đ"
+                    value="14.554đ"
                     color="text-[oklch(0.4_0.18_145)]"
-                    badge="+15,6%"
+                    badge="+14,6%"
                   />
                 </div>
                 <div className="mt-5 rounded-xl border border-[oklch(0.85_0.12_145)]/30 bg-[oklch(0.96_0.06_145)]/40 px-3 py-2 text-left text-xs">
@@ -144,7 +144,7 @@ function PreviewStat({
 
 function StatsBar() {
   const stats = [
-    { value: "1.314", label: "Ngành hàng / mode" },
+    { value: "1.300+", label: "Ngành hàng / mode" },
     { value: "4", label: "Kịch bản so sánh" },
     { value: "2", label: "Loại shop hỗ trợ" },
     { value: "100%", label: "Miễn phí" },
@@ -185,14 +185,14 @@ function FeaturesSection() {
     },
     {
       title: "Đầy đủ phí Shopee 2026",
-      desc: "Phí cố định (1.314 ngành), phí thanh toán 4.91%, Voucher Xtra (cap 50k), phí hạ tầng, Pi Ship, thuế HKD 1.5%.",
+      desc: "Phí cố định (1.300+ ngành), phí thanh toán 4.91%, Voucher Xtra (cap 50k), phí hạ tầng, Pi Ship, thuế HKD 1.5%.",
       accent: "from-[oklch(0.92_0.08_145)]/30 to-transparent",
       iconBg: "bg-[oklch(0.92_0.08_145)]",
       iconColor: "text-[oklch(0.4_0.15_145)]",
     },
     {
       title: "Search ngành nhanh",
-      desc: "Cascader 3 cấp có search tiếng Việt có dấu — gõ vài ký tự là ra ngành cần tìm trong 1.314 lựa chọn.",
+      desc: "Cascader 3 cấp có search tiếng Việt có dấu — gõ vài ký tự là ra ngành cần tìm trong 1.300+ lựa chọn.",
       accent: "from-[oklch(0.92_0.08_75)]/30 to-transparent",
       iconBg: "bg-[oklch(0.92_0.08_75)]",
       iconColor: "text-[oklch(0.5_0.15_60)]",
@@ -320,7 +320,7 @@ function FaqSection() {
   const faqs = [
     {
       q: "Số liệu có chính xác không?",
-      a: "Công cụ áp dụng chính xác công thức từ bảng phí tham khảo Shopee 2026 (Mall + Thường), bao gồm 1.314 ngành hàng. Số liệu mang tính chất ước tính, có thể chênh lệch nhỏ tuỳ tham số shop tự cấu hình (QC, voucher, tỉ lệ hoàn).",
+      a: "Công cụ áp dụng chính xác công thức từ bảng phí tham khảo Shopee 2026 (Mall + Thường), bao gồm hơn 1.300 ngành hàng mỗi loại shop. Số liệu mang tính chất ước tính, có thể chênh lệch nhỏ tuỳ tham số shop tự cấu hình (QC, voucher, tỉ lệ hoàn).",
     },
     {
       q: "Có thu phí không?",

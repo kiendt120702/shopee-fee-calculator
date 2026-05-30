@@ -4,10 +4,10 @@ export const VOUCHER_XTRA_CAP = 50000;
 
 export const DEFAULTS_MALL: Omit<CalcInput, "giaNhap" | "giaBan" | "phiCoDinh"> = {
   phiThanhToan: 0.0491,
-  phiVoucherXtra: 0.04,
+  phiVoucherXtra: 0.055,
   phiHaTang: 3000,
   phiShipKhTb: 15000,
-  piShip: 1620,
+  piShip: 2700,
   phiShipHoan: 50000,
   tiLeHoan: 0.1,
   phiQc: 0.1,
@@ -18,10 +18,10 @@ export const DEFAULTS_MALL: Omit<CalcInput, "giaNhap" | "giaBan" | "phiCoDinh"> 
 
 export const DEFAULTS_THUONG: Omit<CalcInput, "giaNhap" | "giaBan" | "phiCoDinh"> = {
   phiThanhToan: 0.0491,
-  phiVoucherXtra: 0.04,
+  phiVoucherXtra: 0.055,
   phiHaTang: 0,
   phiShipKhTb: 15000,
-  piShip: 1620,
+  piShip: 2700,
   phiShipHoan: 50000,
   tiLeHoan: 0.1,
   phiQc: 0.1,
