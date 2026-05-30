@@ -10,6 +10,7 @@ export function SiteHeader() {
   const onCalc = pathname === "/calculator";
   const onUpdates = pathname === "/updates";
   const onBangPhi = pathname === "/bang-phi";
+  const onCacLoaiPhi = pathname === "/cac-loai-phi";
   return (
     <header className="sticky top-0 z-30 border-b border-border/70 bg-background/85 backdrop-blur">
       <div className="mx-auto flex h-14 w-full max-w-6xl items-center justify-between gap-3 px-3 sm:h-16 sm:px-6 lg:h-18">
@@ -23,6 +24,17 @@ export function SiteHeader() {
           </span>
         </Link>
         <nav className="flex shrink-0 items-center gap-1 sm:gap-2">
+          <Link
+            href="/cac-loai-phi"
+            className={cn(
+              "hidden rounded-lg px-2.5 py-1.5 text-xs font-medium transition lg:inline-flex lg:text-sm",
+              onCacLoaiPhi
+                ? "text-primary"
+                : "text-muted-foreground hover:text-primary"
+            )}
+          >
+            Các loại phí
+          </Link>
           <Link
             href="/bang-phi"
             className={cn(

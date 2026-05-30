@@ -13,6 +13,7 @@ export default function HomePage() {
     <main className="flex flex-1 flex-col">
       <HeroSection />
       <StatsBar />
+      <ExploreSection />
       <FeaturesSection />
       <HowItWorksSection />
       <FaqSection />
@@ -52,8 +53,8 @@ function HeroSection() {
 
         <p className="mt-5 max-w-2xl text-balance text-base text-muted-foreground sm:text-lg lg:text-xl">
           Nhập giá nhập, giá bán và ngành hàng — công cụ tự động tính lợi
-          nhuận, phí cố định, phí thanh toán, voucher Xtra, Pi Ship, thuế HKD
-          theo công thức chuẩn cho Shopee Mall và Shop Thường.
+          nhuận, phí cố định, phí xử lý giao dịch, voucher Xtra, Pi Ship, thuế
+          HKD theo công thức chuẩn cho Shopee Mall và Shop Thường.
         </p>
 
         <div className="mt-8 flex flex-col gap-3 sm:flex-row">
@@ -89,14 +90,14 @@ function HeroSection() {
                   />
                   <PreviewStat
                     label="Tổng chi phí"
-                    value="35.447đ"
+                    value="36.700đ"
                     color="text-muted-foreground"
                   />
                   <PreviewStat
                     label="Lợi nhuận"
-                    value="14.554đ"
+                    value="13.300đ"
                     color="text-[oklch(0.4_0.18_145)]"
-                    badge="+14,6%"
+                    badge="+13,3%"
                   />
                 </div>
                 <div className="mt-5 rounded-xl border border-[oklch(0.85_0.12_145)]/30 bg-[oklch(0.96_0.06_145)]/40 px-3 py-2 text-left text-xs">
@@ -167,6 +168,86 @@ function StatsBar() {
   );
 }
 
+function ExploreSection() {
+  const tools = [
+    {
+      href: "/calculator",
+      title: "Công cụ tính phí",
+      desc: "Nhập giá nhập, giá bán & ngành hàng — tính lợi nhuận và so sánh 4 kịch bản tức thì.",
+      cta: "Tính ngay",
+      accent: "from-primary/15 to-primary/5",
+      iconBg: "bg-primary/10 text-primary",
+      icon: "₫",
+    },
+    {
+      href: "/bang-phi",
+      title: "Bảng phí ngành hàng",
+      desc: "Tra cứu phí cố định toàn bộ 1.300+ ngành hàng cho Shopee Mall và Shop Thường.",
+      cta: "Xem bảng phí",
+      accent: "from-[oklch(0.92_0.08_240)]/30 to-transparent",
+      iconBg: "bg-[oklch(0.92_0.08_240)] text-[oklch(0.45_0.15_240)]",
+      icon: "≡",
+    },
+    {
+      href: "/cac-loai-phi",
+      title: "Các loại phí",
+      desc: "Giải thích chi tiết từng loại phí Shopee — định nghĩa, công thức tính và lưu ý.",
+      cta: "Tìm hiểu phí",
+      accent: "from-[oklch(0.92_0.08_145)]/30 to-transparent",
+      iconBg: "bg-[oklch(0.92_0.08_145)] text-[oklch(0.4_0.15_145)]",
+      icon: "?",
+    },
+    {
+      href: "/updates",
+      title: "Cập nhật sàn",
+      desc: "Theo dõi thông báo thay đổi phí, chính sách mới nhất của Shopee theo timeline.",
+      cta: "Xem cập nhật",
+      accent: "from-[oklch(0.92_0.08_60)]/40 to-transparent",
+      iconBg: "bg-[oklch(0.92_0.08_60)] text-[oklch(0.5_0.15_60)]",
+      icon: "🔔",
+    },
+  ];
+
+  return (
+    <section className="mx-auto w-full max-w-6xl px-4 py-14 sm:px-6 sm:py-20">
+      <div className="mx-auto max-w-2xl text-center">
+        <h2 className="text-3xl font-bold tracking-tight sm:text-4xl">
+          Khám phá công cụ
+        </h2>
+        <p className="mt-3 text-base text-muted-foreground sm:text-lg">
+          Mọi thứ seller cần để định giá đúng và nắm bắt thay đổi phí của sàn.
+        </p>
+      </div>
+
+      <div className="mt-10 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+        {tools.map((t) => (
+          <Link
+            key={t.href}
+            href={t.href}
+            className={`group relative flex flex-col overflow-hidden rounded-2xl border border-border/70 bg-gradient-to-br ${t.accent} bg-card p-5 shadow-sm transition hover:-translate-y-1 hover:shadow-lg`}
+          >
+            <div
+              className={`flex size-11 items-center justify-center rounded-xl text-lg font-bold ${t.iconBg}`}
+            >
+              {t.icon}
+            </div>
+            <h3 className="mt-4 text-lg font-semibold tracking-tight">
+              {t.title}
+            </h3>
+            <p className="mt-1.5 flex-1 text-sm text-muted-foreground">
+              {t.desc}
+            </p>
+            <span className="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-primary">
+              {t.cta}
+              <span className="transition group-hover:translate-x-0.5">→</span>
+            </span>
+          </Link>
+        ))}
+      </div>
+    </section>
+  );
+}
+
 function FeaturesSection() {
   const features = [
     {
@@ -185,7 +266,7 @@ function FeaturesSection() {
     },
     {
       title: "Đầy đủ phí Shopee 2026",
-      desc: "Phí cố định (1.300+ ngành), phí thanh toán 4.91%, Voucher Xtra (cap 50k), phí hạ tầng, Pi Ship, thuế HKD 1.5%.",
+      desc: "Phí cố định (1.300+ ngành), phí xử lý giao dịch 6%, Voucher Xtra (cap 50k), phí hạ tầng, Pi Ship, thuế HKD 1.5%.",
       accent: "from-[oklch(0.92_0.08_145)]/30 to-transparent",
       iconBg: "bg-[oklch(0.92_0.08_145)]",
       iconColor: "text-[oklch(0.4_0.15_145)]",
