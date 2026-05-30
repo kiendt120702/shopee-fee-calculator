@@ -25,12 +25,12 @@ describe("Mall scenario — case 1 (50k/100k, 12.6%)", () => {
     approxEqual(r.phiHaTangVnd, 3000);
     approxEqual(r.phiVoucherXtraVnd, 0);
     approxEqual(r.tongPhiShopee, 21246.5);
-    approxEqual(r.phiPiShipVnd, 1620);
+    approxEqual(r.phiPiShipVnd, 2700);
     approxEqual(r.phiQcVnd, 10000);
     approxEqual(r.phiThueVnd, 1500);
     approxEqual(r.phiShipHoanVnd, 0);
-    approxEqual(r.tongChiPhi, 34366.5);
-    approxEqual(r.loiNhuan, 15633.5);
+    approxEqual(r.tongChiPhi, 35446.5);
+    approxEqual(r.loiNhuan, 14553.5);
   });
 
   it("KhongDk + Khong Pi Ship — uses ship hoan", () => {
@@ -41,10 +41,10 @@ describe("Mall scenario — case 1 (50k/100k, 12.6%)", () => {
     approxEqual(r.tongChiPhi, 21246.5 + 10000 + 1500 + 5555.56);
   });
 
-  it("VoucherXtra adds capped fee (4% of 100k = 4000)", () => {
+  it("VoucherXtra adds capped fee (5.5% of 100k = 5500)", () => {
     const r = calcScenario(input, { hasVoucherXtra: true, hasPiShip: true });
-    approxEqual(r.phiVoucherXtraVnd, 4000);
-    approxEqual(r.tongPhiShopee, 21246.5 + 4000);
+    approxEqual(r.phiVoucherXtraVnd, 5500);
+    approxEqual(r.tongPhiShopee, 21246.5 + 5500);
   });
 
   it("VoucherXtra cap at 50k for very expensive items", () => {

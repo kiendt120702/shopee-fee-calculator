@@ -18,14 +18,14 @@ describe("Category lookup — Mall", () => {
     expect(list).toContain("Phụ kiện");
   });
 
-  it("STT 195 — Điện Thoại / Phụ kiện / Vỏ bao... = 12.6%", () => {
+  it("Điện Thoại / Phụ kiện / Vỏ bao... = 17.7% (phí Mall 29/05/2026)", () => {
     const fee = findCategoryFee(
       "mall",
       "Điện Thoại & Phụ Kiện",
       "Phụ kiện",
       "Vỏ bao, Ốp lưng & Miếng dán"
     );
-    expect(fee).toBe(0.126);
+    expect(fee).toBe(0.177);
   });
 
   it("findCategory falls back to cap2-only when cap3 unknown", () => {

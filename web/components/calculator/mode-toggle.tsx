@@ -16,7 +16,7 @@ interface ModeToggleProps {
 
 const MODES: { value: ShopMode; label: string; sub: string }[] = [
   { value: "mall", label: "Shopee Mall", sub: "Có phí hạ tầng 3.000đ/đơn" },
-  { value: "thuong", label: "Shopee Thường", sub: "Phí mới 29/12/2025, gồm VAT 8%" },
+  { value: "thuong", label: "Shopee Thường", sub: "Phí mới 23/05/2026, gồm VAT 8%" },
 ];
 
 export function ModeToggle({ value, onChange }: ModeToggleProps) {
