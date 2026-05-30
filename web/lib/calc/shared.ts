@@ -3,7 +3,7 @@ import type { CalcInput, ShopMode } from "./types";
 export const VOUCHER_XTRA_CAP = 50000;
 
 export const DEFAULTS_MALL: Omit<CalcInput, "giaNhap" | "giaBan" | "phiCoDinh"> = {
-  phiThanhToan: 0.0491,
+  phiThanhToan: 0.06,
   phiVoucherXtra: 0.055,
   phiHaTang: 3000,
   phiShipKhTb: 15000,
@@ -17,7 +17,7 @@ export const DEFAULTS_MALL: Omit<CalcInput, "giaNhap" | "giaBan" | "phiCoDinh"> 
 };
 
 export const DEFAULTS_THUONG: Omit<CalcInput, "giaNhap" | "giaBan" | "phiCoDinh"> = {
-  phiThanhToan: 0.0491,
+  phiThanhToan: 0.06,
   phiVoucherXtra: 0.055,
   phiHaTang: 0,
   phiShipKhTb: 15000,

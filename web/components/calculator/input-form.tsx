@@ -92,7 +92,7 @@ export function InputForm({ state, category, onCategoryChange }: InputFormProps)
           </div>
           <div className="flex flex-col gap-1.5">
             <ReadOnlyField
-              label="Phí thanh toán"
+              label="Phí xử lý giao dịch"
               value={formatPercent(input.phiThanhToan)}
               hint="Tính trên (giá bán + ship − voucher shop)"
             />
