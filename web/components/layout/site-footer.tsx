@@ -20,6 +20,9 @@ export function SiteFooter() {
           <Link href="/bang-phi" className="hover:text-primary">
             Bảng phí
           </Link>
+          <Link href="/cac-loai-phi" className="hover:text-primary">
+            Các loại phí
+          </Link>
           <Link href="/updates" className="hover:text-primary">
             Cập nhật sàn
           </Link>

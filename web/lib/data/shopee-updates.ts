@@ -194,4 +194,34 @@ export const SHOPEE_UPDATES: ShopeeUpdate[] = [
     ],
     important: true,
   },
+  {
+    id: "2026-05-01-tang-phi-xu-ly-giao-dich-6",
+    date: "2026-05-01",
+    title: "Tăng Phí Xử Lý Giao Dịch từ 4.91% lên 6%",
+    category: "phi",
+    description:
+      "Shopee cập nhật mức Phí Xử Lý Giao Dịch lên 6% (đã bao gồm thuế GTGT), áp dụng cho mọi phương thức thanh toán. Thời gian áp dụng: từ 01/05/2026 cho Người bán không thuộc Shopee Mall, từ 08/05/2026 cho Người bán thuộc Shopee Mall.",
+    comparisonLabels: { before: "Trước 08/05/2026", after: "Từ 08/05/2026" },
+    comparison: [
+      {
+        label: "Phí Xử Lý Giao Dịch (đã gồm thuế GTGT)",
+        before: "4.91%",
+        after: "6%",
+      },
+    ],
+    detailHref: "/cac-loai-phi#phi-xu-ly-giao-dich",
+    detailLabel: "Xem chi tiết Phí Xử Lý Giao Dịch",
+    important: true,
+  },
+  {
+    id: "2026-04-24-doi-ten-phi-xu-ly-giao-dich",
+    date: "2026-04-24",
+    title: "Đổi tên “Phí Thanh Toán” thành “Phí Xử Lý Giao Dịch”",
+    category: "chinh-sach",
+    description:
+      "Bắt đầu từ ngày 24/04/2026, Shopee cập nhật tên “Phí Thanh Toán” thành “Phí Xử Lý Giao Dịch” nhằm phù hợp với tên dịch vụ trên Hóa đơn tài chính mà Shopee phát hành cho Người bán.\nPhí Xử Lý Giao Dịch là phí hỗ trợ vận hành và nâng cao chất lượng hệ thống giao dịch, bao gồm nhưng không giới hạn các hoạt động như: xử lý thanh toán, đối soát, v.v.",
+    detailHref: "/cac-loai-phi#phi-xu-ly-giao-dich",
+    detailLabel: "Xem chi tiết Phí Xử Lý Giao Dịch",
+    important: false,
+  },
 ];

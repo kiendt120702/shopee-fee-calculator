@@ -21,16 +21,17 @@ describe("Mall scenario — case 1 (50k/100k, 12.6%)", () => {
   it("KhongDk + Co Pi Ship matches Excel", () => {
     const r = calcScenario(input, { hasVoucherXtra: false, hasPiShip: true });
     approxEqual(r.phiCoDinhVnd, 12600);
-    approxEqual(r.phiThanhToanVnd, 5646.5);
+    // 6% × (100000 + 15000 − 0) = 6900
+    approxEqual(r.phiThanhToanVnd, 6900);
     approxEqual(r.phiHaTangVnd, 3000);
     approxEqual(r.phiVoucherXtraVnd, 0);
-    approxEqual(r.tongPhiShopee, 21246.5);
+    approxEqual(r.tongPhiShopee, 22500);
     approxEqual(r.phiPiShipVnd, 2700);
     approxEqual(r.phiQcVnd, 10000);
     approxEqual(r.phiThueVnd, 1500);
     approxEqual(r.phiShipHoanVnd, 0);
-    approxEqual(r.tongChiPhi, 35446.5);
-    approxEqual(r.loiNhuan, 14553.5);
+    approxEqual(r.tongChiPhi, 36700);
+    approxEqual(r.loiNhuan, 13300);
   });
 
   it("KhongDk + Khong Pi Ship — uses ship hoan", () => {
@@ -38,13 +39,13 @@ describe("Mall scenario — case 1 (50k/100k, 12.6%)", () => {
     // phi ship hoan = 50000 * 0.1 / 0.9 = 5555.56
     approxEqual(r.phiShipHoanVnd, 5555.56);
     approxEqual(r.phiPiShipVnd, 0);
-    approxEqual(r.tongChiPhi, 21246.5 + 10000 + 1500 + 5555.56);
+    approxEqual(r.tongChiPhi, 22500 + 10000 + 1500 + 5555.56);
   });
 
   it("VoucherXtra adds capped fee (5.5% of 100k = 5500)", () => {
     const r = calcScenario(input, { hasVoucherXtra: true, hasPiShip: true });
     approxEqual(r.phiVoucherXtraVnd, 5500);
-    approxEqual(r.tongPhiShopee, 21246.5 + 5500);
+    approxEqual(r.tongPhiShopee, 22500 + 5500);
   });
 
   it("VoucherXtra cap at 50k for very expensive items", () => {
@@ -122,8 +123,8 @@ describe("Edge cases", () => {
       phiVoucherShop: 0.1,
     };
     const r = calcScenario(input, { hasVoucherXtra: false, hasPiShip: true });
-    // phi thanh toan = 0.0491 * (100000 + 15000 - 10000) = 0.0491 * 105000 = 5155.5
-    approxEqual(r.phiThanhToanVnd, 5155.5);
+    // phi xu ly giao dich = 0.06 * (100000 + 15000 - 10000) = 0.06 * 105000 = 6300
+    approxEqual(r.phiThanhToanVnd, 6300);
     approxEqual(r.phiVoucherShopVnd, 10000);
   });
 });
